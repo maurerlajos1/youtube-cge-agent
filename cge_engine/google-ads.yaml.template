@@ -1,0 +1,8 @@
+# Google Ads API Credentials Template
+# Place your credentials from Google Cloud Console & Google Ads Manager Account (MCC)
+developer_token: "INSERT_DEVELOPER_TOKEN_HERE"
+client_id: "INSERT_OAUTH_CLIENT_ID_HERE.apps.googleusercontent.com"
+client_secret: "INSERT_OAUTH_CLIENT_SECRET_HERE"
+refresh_token: "INSERT_REFRESH_TOKEN_HERE"
+login_customer_id: "INSERT_10_DIGIT_MCC_ID_WITHOUT_HYPHENS"
+use_proto_plus: True

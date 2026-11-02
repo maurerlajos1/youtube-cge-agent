@@ -1,0 +1,711 @@
+{
+  "market_label": "Hungarian Deep Scan",
+  "hl": "hu",
+  "gl": "HU",
+  "autocomplete_wildcard_ideas": {
+    "google ads kampány beállítása": [
+      "* google ads kampány beállítása magyarul",
+      "* google ads kampány beállítása android",
+      "google ads kampány létrehozása",
+      "google ads beállítás",
+      "google ads hirdetés",
+      "google ads magyar",
+      "google ads kampány beállítása tippek kezdőknek"
+    ],
+    "landing oldal készítés": [
+      "landing oldal készítés",
+      "landing page készítés",
+      "landing pages"
+    ],
+    "webshop konverzió növelés": [
+      "* webshop konverzió növelése",
+      "webshop konverzió növelés * érettségi",
+      "webshop készítés ingyen"
+    ]
+  },
+  "analyzed_videos": [
+    {
+      "video_id": "D6poLEZCCFc",
+      "url": "https://www.youtube.com/watch?v=D6poLEZCCFc",
+      "title": "7 Google Ads hirdetés hack, ami akár duplázhatja a vállalkozásod bevételét (+Extra tippek)",
+      "channel": "HeyViktor",
+      "subscribers": 1910,
+      "views": 7888,
+      "true_icahn_views_to_subs_ratio": 4.13,
+      "is_icahn_outlier": true,
+      "is_karla_singson_b2b_candidate": true,
+      "likes": 117,
+      "like_to_view_rate_pct": 1.48,
+      "comments": 5,
+      "duration_minutes": 3.2,
+      "upload_date": "20220508",
+      "days_since_upload": 1633,
+      "views_per_day_velocity": 4.8,
+      "external_funnel_links": [
+        "https://ajanlat.thunderboltquest.co"
+      ],
+      "description_first_300_chars": "Ebben a videómban bemutatom nektek azokat a Google Ads hirdetési technikákat, amiket mi is használunk a digitális marketing ügynökségünknél.  Az egyik legjobb pénztermelő gépezet a Google Ads!  Gyakorlati példák a videóban.  Több, mint 4.7 milliárdot generáltunk már ezzel az értékesítési technikával",
+      "tags": [
+        "marketing",
+        "marketingtippek",
+        "digitalmarketing"
+      ],
+      "transcript_data": {
+        "available": false,
+        "reason": "No caption track found"
+      }
+    },
+    {
+      "video_id": "f7j3JSBD6so",
+      "url": "https://www.youtube.com/watch?v=f7j3JSBD6so",
+      "title": "5-Minute Google Ads Tutorial - Everything You Need to Know In Under 5 Minutes (2025)",
+      "channel": "Ivan Mana",
+      "subscribers": 127000,
+      "views": 502284,
+      "true_icahn_views_to_subs_ratio": 3.95,
+      "is_icahn_outlier": true,
+      "is_karla_singson_b2b_candidate": false,
+      "likes": 8814,
+      "like_to_view_rate_pct": 1.75,
+      "comments": 506,
+      "duration_minutes": 6.1,
+      "upload_date": "20250226",
+      "days_since_upload": 608,
+      "views_per_day_velocity": 826.1,
+      "external_funnel_links": [
+        "https://ivanmana.com",
+        "https://ivanmana.com/marketing-blueprint",
+        "https://ivanmana.com/all-courses"
+      ],
+      "description_first_300_chars": "Get FREE starter access to my training course and my DONE-FOR-YOU marketing setup:  👉 https://ivanmana.com  In this quick Google Ads tutorial, I show you the most important parts of Google Ads in just under 5 minutes. This comprehensive guide covers everything from account setup to keyword selection",
+      "tags": [
+        "google ads tutorial",
+        "google ads tutorial for beginners",
+        "google ads for beginners",
+        "google adwords",
+        "google adwords tutorial for beginners",
+        "google adwords tutorial",
+        "google ads tutorial 2025",
+        "google ads tutorial for beginners 2025",
+        "how to run google ads",
+        "google advertising",
+        "learn google ads",
+        "how to create google ads"
+      ],
+      "transcript_data": {
+        "available": true,
+        "language": "en",
+        "is_auto_generated": false,
+        "total_word_count": 1218,
+        "first_30_seconds_hook": "hello and welcome to this 5minute Google ads tutorial I've been using all Google ad campaign formats for the past 8 years and in this video I want to show you only the most relevant information you need to know to create your campaign so let's get into it the first thing you need to do is go to ads. goole.com and sign up if you don't already have an account once you sign in you will see a page that looks like this the two things you will mostly be using in this interface are the goals button where you can set up conversions and the campaign button to create your campaign click on campaigns on the left hand side click on campaigns again",
+        "first_30s_word_count": 125,
+        "full_transcript_preview_1500_chars": "hello and welcome to this 5minute Google ads tutorial I've been using all Google ad campaign formats for the past 8 years and in this video I want to show you only the most relevant information you need to know to create your campaign so let's get into it the first thing you need to do is go to ads. goole.com and sign up if you don't already have an account once you sign in you will see a page that looks like this the two things you will mostly be using in this interface are the goals button where you can set up conversions and the campaign button to create your campaign click on campaigns on the left hand side click on campaigns again and then click on this little plus sign here and select new campaign ignore these objectives and just click on create a campaign without guidance so that you can see all the available campaign options as of now there are seven different Google ads campaign types the search Campaign which is by far the lowest hanging fruit and as the title suggests these ads appear in Google search results the demand gen campaign allows you to create ads that will be shown on Google owned properties such as YouTube Google discover and Gmail the display campaign allows you to create banner ads that show up on Google partnered websites the shopping campaign allows you to Showcase your products directly in Google search and Google shopping often showing product images prices and store names this is great for e-commerce businesses selling physical products the video",
+        "full_transcript": "hello and welcome to this 5minute Google ads tutorial I've been using all Google ad campaign formats for the past 8 years and in this video I want to show you only the most relevant information you need to know to create your campaign so let's get into it the first thing you need to do is go to ads. goole.com and sign up if you don't already have an account once you sign in you will see a page that looks like this the two things you will mostly be using in this interface are the goals button where you can set up conversions and the campaign button to create your campaign click on campaigns on the left hand side click on campaigns again and then click on this little plus sign here and select new campaign ignore these objectives and just click on create a campaign without guidance so that you can see all the available campaign options as of now there are seven different Google ads campaign types the search Campaign which is by far the lowest hanging fruit and as the title suggests these ads appear in Google search results the demand gen campaign allows you to create ads that will be shown on Google owned properties such as YouTube Google discover and Gmail the display campaign allows you to create banner ads that show up on Google partnered websites the shopping campaign allows you to Showcase your products directly in Google search and Google shopping often showing product images prices and store names this is great for e-commerce businesses selling physical products the video campaign allows you to create YouTube ads the app campaign is great if you want people to install your app and the performance Max campaign is a combination of all of the above we will be going with a search campaign in this example because it's applicable to the vast majority of businesses and yields high quality traffic however the setup process for these other campaign types is fairly similar and I will link videos to some of these in the description so let's click on search select your objective enter your website URL enter the campaign name and click continue if you have conversion tracking set up you can leave the bidding as conver verions either measured by cost per action or by return on ad spend if you don't have conversion tracking set up yet you can click on clicks and enter a maximum amount you're willing to pay per click we will click on next next we have the campaign settings do not select the Google Display Network and if you want your ads to run exclusively on Google deselect this stop option as well next you would select your location I'm going to enter Canada and United States here make sure to click on options and select presents only so your ads show up only to people in the countries you selected set the language to match the language of your ads in our case English leave everything else as is and click on next you can certainly use AI to generate headlines and descriptions for you but I'm just going to click skip here we have the add group settings and this is where we will be setting keywords keywords are the words you set that will trigger your ads to show up when someone types in something matching your keywords there are three keyword match types types exact phrase and Broad ranging from the most narrow to the most broad range of searches that could trigger your ass to show up because broad will attract the most irrelevant traffic to your site I recommend going with all exact match type keywords and just one to two broad match keywords just to get new ideas in our example I'm promoting my upcoming new marketing membership site so I will type in online marketing course right over here and get the Google suggestions I will then remove the suggestions that I believe believe aren't relevant I'm also going to add square brackets to all these keywords except the one that has the most words in it to give Google more direction for the one broad match keyword that we have there is no limit as to how many keywords you should add per ad group The more relevant keywords you can add matching the theme of the ad group the better we're also going to name our ad group to match the theme of these keywords keep in mind that keyword research is a very important component of your Google ads campaigns so I recommend you utilize the free Google ads Keyword Planner to do your re search next we're going to scroll down to the ads this is where you would write your headlines and descriptions as you would like them to appear on Google search the maximum character limit for headlines is 30 and for descriptions it's 90 I recommend having three to five headlines that contain your keywords 3 to five headlines that contain a call to action and 3 to five headlines that describe how your product is different from competitors including features and benefits there is no set number for how many headlines or descriptions you should add but the more you add the better so Google has more variations to work with make sure they're all unique you also have the option to add assets which are extensions to your ads so take a look at all the available options and set up the ones most suitable for you the assets I recommend for any business are site links call outs promotions and structured Snippets next we're going to click on done and then click on next now we need to set a budget keep in mind that Google might spend up to two times your daily budget but it won't exceed your monthly budget so plan accordingly we're going to leave the budget as is and click on next now we just need to review the campaign make sure everything looks good and then we will click on publish campaign and your campaign is now live congratulations you can adjust any campaign settings by clicking on this gear icon next to your campaign you can also adjust the budget right over here if you click on your campaign you will see the ad group and if you click on the ad group you will see all your keywords if you click on ads over here you will be able to see all your your ads so that is it for this video I hope this was helpful I do invite you to check out my new upcoming membership site at ion mana.com slm marketing blueprint as it will contain over 45 hours of new and updated content related to Marketing Online I have a dedicated Google ads module in this course that lasts about 10 hours and covers everything you need to know about Google ads in very thorough detail including conversion tracking and remarketing so make sure to sign up for my email list to be the first to know when it's out that said thank you for watching I will see you in the next video",
+        "timestamped_segments_sample": [
+          {
+            "t": 0.1,
+            "text": "hello and welcome to this 5minute Google  ads tutorial I've been using all Google ad"
+          },
+          {
+            "t": 4.6,
+            "text": "campaign formats for the past 8 years and in this  video I want to show you only the most relevant"
+          },
+          {
+            "t": 9.7,
+            "text": "information you need to know to create your  campaign so let's get into it the first thing"
+          },
+          {
+            "t": 15.2,
+            "text": "you need to do is go to ads. goole.com and sign  up if you don't already have an account once you"
+          },
+          {
+            "t": 21.0,
+            "text": "sign in you will see a page that looks like  this the two things you will mostly be using"
+          },
+          {
+            "t": 25.5,
+            "text": "in this interface are the goals button where  you can set up conversions and the campaign"
+          },
+          {
+            "t": 30.2,
+            "text": "button to create your campaign click on campaigns  on the left hand side click on campaigns again"
+          },
+          {
+            "t": 36.2,
+            "text": "and then click on this little plus sign here and  select new campaign ignore these objectives and"
+          },
+          {
+            "t": 41.5,
+            "text": "just click on create a campaign without guidance  so that you can see all the available campaign"
+          },
+          {
+            "t": 46.6,
+            "text": "options as of now there are seven different Google  ads campaign types the search Campaign which is"
+          },
+          {
+            "t": 52.0,
+            "text": "by far the lowest hanging fruit and as the title  suggests these ads appear in Google search results"
+          },
+          {
+            "t": 57.8,
+            "text": "the demand gen campaign allows you to create ads  that will be shown on Google owned properties such"
+          },
+          {
+            "t": 62.9,
+            "text": "as YouTube Google discover and Gmail the display  campaign allows you to create banner ads that show"
+          },
+          {
+            "t": 68.6,
+            "text": "up on Google partnered websites the shopping  campaign allows you to Showcase your products"
+          },
+          {
+            "t": 73.8,
+            "text": "directly in Google search and Google shopping  often showing product images prices and store"
+          },
+          {
+            "t": 79.4,
+            "text": "names this is great for e-commerce businesses  selling physical products the video campaign"
+          },
+          {
+            "t": 84.7,
+            "text": "allows you to create YouTube ads the app campaign  is great if you want people to install your app"
+          },
+          {
+            "t": 89.6,
+            "text": "and the performance Max campaign is a combination  of all of the above we will be going with a search"
+          },
+          {
+            "t": 94.5,
+            "text": "campaign in this example because it's applicable  to the vast majority of businesses and yields high"
+          },
+          {
+            "t": 99.3,
+            "text": "quality traffic however the setup process for  these other campaign types is fairly similar"
+          },
+          {
+            "t": 104.4,
+            "text": "and I will link videos to some of these in the  description so let's click on search select your"
+          },
+          {
+            "t": 109.4,
+            "text": "objective enter your website URL enter the  campaign name and click continue if you have"
+          },
+          {
+            "t": 116.8,
+            "text": "conversion tracking set up you can leave the  bidding as conver verions either measured by"
+          },
+          {
+            "t": 121.3,
+            "text": "cost per action or by return on ad spend if you  don't have conversion tracking set up yet you"
+          },
+          {
+            "t": 127.7,
+            "text": "can click on clicks and enter a maximum amount  you're willing to pay per click we will click"
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "xa7f9bSTryY",
+      "url": "https://www.youtube.com/watch?v=xa7f9bSTryY",
+      "title": "Milyen a sikeres 💵💵💵 pénztermelő 💻 jó landing oldal? [LANDING PAGE ÚTMUTATÓ]",
+      "channel": "ProduktON!",
+      "subscribers": 1220,
+      "views": 3241,
+      "true_icahn_views_to_subs_ratio": 2.66,
+      "is_icahn_outlier": true,
+      "is_karla_singson_b2b_candidate": true,
+      "likes": 141,
+      "like_to_view_rate_pct": 4.35,
+      "comments": 28,
+      "duration_minutes": 54.7,
+      "upload_date": "20211123",
+      "days_since_upload": 1799,
+      "views_per_day_velocity": 1.8,
+      "external_funnel_links": [
+        "https://produkton.hu/adomany",
+        "https://produkton.hu/weboldal-keszites/",
+        "https://produkton.hu/landing-oldal-keszites/",
+        "https://produkton.hu/velemenyek/",
+        "https://produkton.hu/referenciak/",
+        "https://produkton.hu/blog"
+      ],
+      "description_first_300_chars": "Azt a célt tűztem ki, hogy minden magyar vállalkozásnak segítsek szuperebbnél szuperebb landing oldalakat (landing page-eket) kreálni, melyek tényleg az eladást szolgálják, sok-sok vásárlót hoz nekik, és ezáltal sok bevételt, profitot termel a számukra. ☝️  Sajnos mindenkinek nem tudok landing oldal",
+      "tags": [
+        "landing oldal",
+        "landoló oldal",
+        "landing page",
+        "érkeztető oldal",
+        "céloldal",
+        "értékesítési oldal",
+        "optin oldal",
+        "köszönőoldal",
+        "landing oldal készítés",
+        "jó landing oldal",
+        "landing page készítés",
+        "érkeztető oldal készítés"
+      ],
+      "transcript_data": {
+        "available": false,
+        "reason": "No caption track found"
+      }
+    },
+    {
+      "video_id": "Ep6APHsFcbI",
+      "url": "https://www.youtube.com/watch?v=Ep6APHsFcbI",
+      "title": "🚀💻 Ezért sokkal jobb a landing oldal a sima, klasszikus weboldalnál 👉 Íme az egyértelmű előny",
+      "channel": "ProduktON!",
+      "subscribers": 1220,
+      "views": 1894,
+      "true_icahn_views_to_subs_ratio": 1.55,
+      "is_icahn_outlier": true,
+      "is_karla_singson_b2b_candidate": true,
+      "likes": 49,
+      "like_to_view_rate_pct": 2.59,
+      "comments": 10,
+      "duration_minutes": 3.7,
+      "upload_date": "20230821",
+      "days_since_upload": 1163,
+      "views_per_day_velocity": 1.6,
+      "external_funnel_links": [
+        "https://produkton.hu/adomany",
+        "https://produkton.hu/weboldal-keszites/",
+        "https://produkton.hu/landing-oldal-keszites/",
+        "https://produkton.hu/velemenyek/",
+        "https://produkton.hu/referenciak/",
+        "https://produkton.hu/blog"
+      ],
+      "description_first_300_chars": "A klasszikus weboldalak kora lejárt. Egy jó landing oldal nélkül már vajmi nehezen rúgsz labdába az online marketing világában.  A videóban röviden és szemléletesen bemutatom, miért pipálja le magasan egy jól összerakott landing oldal a sima weboldalt.  Ha tetszett 👍 lájkold a videót, és iratkozz fe",
+      "tags": [
+        "landing oldal",
+        "landing page",
+        "weboldal",
+        "honlap",
+        "weblap",
+        "weboldal készítés",
+        "honlap készítés",
+        "weblap készítés",
+        "landing oldal készítés",
+        "jó weboldal",
+        "jó honlap",
+        "sikeres weboldal"
+      ],
+      "transcript_data": {
+        "available": true,
+        "language": "hu",
+        "is_auto_generated": true,
+        "total_word_count": 462,
+        "first_30_seconds_hook": "egy klasszikus weboldallal legfeljebb csak a kakufára lőhetsz és hogyha mazlid van akkor bemegy még egy landending oldallal a kapu kellős közepére célozhatsz de miért van ez így két pszichológiai egyetemi tanár csinált egy érdekes kísérletet lekvárokkal standokat helyeztek ki nagy bevásárlóközpontokban ahol különféle ízű lekvárokat lehetett ingyenesen kóstolni és persze hogyha izzad akkor meg is lehetett vásárolni kétféle pult volt az egyiknél 24 különféle ízülegpárt lehetett kóstolni és vásárolni a",
+        "first_30s_word_count": 71,
+        "full_transcript_preview_1500_chars": "egy klasszikus weboldallal legfeljebb csak a kakufára lőhetsz és hogyha mazlid van akkor bemegy még egy landending oldallal a kapu kellős közepére célozhatsz de miért van ez így két pszichológiai egyetemi tanár csinált egy érdekes kísérletet lekvárokkal standokat helyeztek ki nagy bevásárlóközpontokban ahol különféle ízű lekvárokat lehetett ingyenesen kóstolni és persze hogyha izzad akkor meg is lehetett vásárolni kétféle pult volt az egyiknél 24 különféle ízülegpárt lehetett kóstolni és vásárolni a másiknál mindössze csak hatot megnézték hogy melyik esetben kóstolják és melyik esetben vásárolják meg többen az emberek a nagyválaszték elsőre csábító lehet ezt a járókelők és kóstolók aránya is mutatja a jóval nagyobb választék esetében az arra jááró embereknek a 60%-a volt az aki kstolt valamilyen lekvárt míg a jóval kisebb választék esetében ugyanez az arány mindössze 40% volt de végső soron a vásárlók számítanak rögtön más volt a helyzet akkor amikor tétje is volt a dolognak a nagyobb lekvár választéknál a kóstolóknak mindössze a 3%-a volt az aki aztán vásárolt is valamilyen lekvárt míg a kisválasztékú lekvároknál ugyanez az arányszám 30% volt mit jelent ez valójában hogyha van 100 járókelőnk a nagyobb és a kisebb választék esetében az első esetben ugye a 60%-uk tehát 60 ember volt az aki aki megállt postolni a második esetben a 40%-uk állt meg tehát 100 emberből 40 ember a nagyobb választéknál ebből a 60 emberből mindössze a 3% vásárolt ami felfele kerekítve mindössze kettő ",
+        "full_transcript": "egy klasszikus weboldallal legfeljebb csak a kakufára lőhetsz és hogyha mazlid van akkor bemegy még egy landending oldallal a kapu kellős közepére célozhatsz de miért van ez így két pszichológiai egyetemi tanár csinált egy érdekes kísérletet lekvárokkal standokat helyeztek ki nagy bevásárlóközpontokban ahol különféle ízű lekvárokat lehetett ingyenesen kóstolni és persze hogyha izzad akkor meg is lehetett vásárolni kétféle pult volt az egyiknél 24 különféle ízülegpárt lehetett kóstolni és vásárolni a másiknál mindössze csak hatot megnézték hogy melyik esetben kóstolják és melyik esetben vásárolják meg többen az emberek a nagyválaszték elsőre csábító lehet ezt a járókelők és kóstolók aránya is mutatja a jóval nagyobb választék esetében az arra jááró embereknek a 60%-a volt az aki kstolt valamilyen lekvárt míg a jóval kisebb választék esetében ugyanez az arány mindössze 40% volt de végső soron a vásárlók számítanak rögtön más volt a helyzet akkor amikor tétje is volt a dolognak a nagyobb lekvár választéknál a kóstolóknak mindössze a 3%-a volt az aki aztán vásárolt is valamilyen lekvárt míg a kisválasztékú lekvároknál ugyanez az arányszám 30% volt mit jelent ez valójában hogyha van 100 járókelőnk a nagyobb és a kisebb választék esetében az első esetben ugye a 60%-uk tehát 60 ember volt az aki aki megállt postolni a második esetben a 40%-uk állt meg tehát 100 emberből 40 ember a nagyobb választéknál ebből a 60 emberből mindössze a 3% vásárolt ami felfele kerekítve mindössze kettő ember még a kisebb választék esetében ebből a 40 emberből a 30%-a vásárolt ami 12 vásárlót jelent ez gyakorlatilag egy hatszoros növekedés ami egyáltalán nem elhanyagolható mi tehát a tanulság az hogy a nagy választék megbénít a döntésben megbénítja a potenciális vásárlódat és a weboldall látogatódat is jobb eredményeket fogsz tudni elérni akkor hogyha kevesebb választási lehetőséget adsz az embereknek de a legjobb választás az hogyha mindössze kettő lehetőség közül tud választani az illető vagy az igen és a nem vagy esetleg két ajánlat két csomagajánlat közül tud választani egy klasszikus weboldal esetében pedig rengeteg rengeteg hely van ahová el tud navigálni a weboldal látogató anélkül hogy leadná tényleges vásárlást megrendelést érdeklődést jelentkezés árajánlatkérést viszont a landending oldal minden egyes eleme egyetlen irányba tereli az embert a vásárlás vagy feliratkozás vagy jelentkezés tehát a kívánt konverzió irányába egy klasszikus weboldal kész labirintusalá ogatód számára tel is tele olyan dolgokkal amik elvonhatják a figyelmét szemben a landending oldallal ami egyetlen jól kijelölt útvonalon vezeti végig a látogatót miközben végig bizalmat épít benne így elérve a lehető legnagyobb esélyt a konverzióra felteszem hát neked a költői kérdést szerinted melyik navigáció hatásosabb ez vagy ez az első ábra egy hagyományos weboldalt prezentál a második pedig egy egyetlen célra fókuszáló vezetett oldalt ami nem más mint a landending oldal ami folyamatosan vezeti végig a látogatódat aminek a végén aztán ott van a kívánt konverzió",
+        "timestamped_segments_sample": [
+          {
+            "t": 0.5,
+            "text": "egy klasszikus weboldallal legfeljebb"
+          },
+          {
+            "t": 2.9,
+            "text": "csak a kakufára lőhetsz és hogyha mazlid"
+          },
+          {
+            "t": 5.7,
+            "text": "van akkor bemegy még egy landending"
+          },
+          {
+            "t": 8.2,
+            "text": "oldallal a kapu kellős közepére"
+          },
+          {
+            "t": 10.4,
+            "text": "célozhatsz de miért van ez így két"
+          },
+          {
+            "t": 13.4,
+            "text": "pszichológiai egyetemi tanár csinált egy"
+          },
+          {
+            "t": 15.6,
+            "text": "érdekes kísérletet lekvárokkal standokat"
+          },
+          {
+            "t": 18.7,
+            "text": "helyeztek ki nagy"
+          },
+          {
+            "t": 20.1,
+            "text": "bevásárlóközpontokban ahol különféle ízű"
+          },
+          {
+            "t": 22.4,
+            "text": "lekvárokat lehetett ingyenesen kóstolni"
+          },
+          {
+            "t": 24.5,
+            "text": "és persze hogyha izzad akkor meg is"
+          },
+          {
+            "t": 26.0,
+            "text": "lehetett vásárolni kétféle pult volt az"
+          },
+          {
+            "t": 28.3,
+            "text": "egyiknél 24 különféle ízülegpárt"
+          },
+          {
+            "t": 30.8,
+            "text": "lehetett kóstolni és vásárolni a"
+          },
+          {
+            "t": 33.0,
+            "text": "másiknál mindössze csak hatot megnézték"
+          },
+          {
+            "t": 35.7,
+            "text": "hogy melyik esetben kóstolják és melyik"
+          },
+          {
+            "t": 37.7,
+            "text": "esetben vásárolják meg többen az emberek"
+          },
+          {
+            "t": 40.0,
+            "text": "a nagyválaszték elsőre csábító lehet ezt"
+          },
+          {
+            "t": 42.6,
+            "text": "a járókelők és kóstolók aránya is"
+          },
+          {
+            "t": 44.5,
+            "text": "mutatja a jóval nagyobb választék"
+          },
+          {
+            "t": 46.9,
+            "text": "esetében az arra jááró embereknek a"
+          },
+          {
+            "t": 49.4,
+            "text": "60%-a volt az aki kstolt valamilyen"
+          },
+          {
+            "t": 52.6,
+            "text": "lekvárt míg a jóval kisebb választék"
+          },
+          {
+            "t": 55.1,
+            "text": "esetében ugyanez az arány mindössze 40%"
+          },
+          {
+            "t": 58.2,
+            "text": "volt de végső soron a vásárlók"
+          }
+        ]
+      }
+    },
+    {
+      "video_id": "kLneJKAqRtk",
+      "url": "https://www.youtube.com/watch?v=kLneJKAqRtk",
+      "title": "How To Increase Conversion Rate On Shopify (2025 CRO Guide)",
+      "channel": "Michael Bernstein",
+      "subscribers": 115000,
+      "views": 117733,
+      "true_icahn_views_to_subs_ratio": 1.02,
+      "is_icahn_outlier": false,
+      "is_karla_singson_b2b_candidate": false,
+      "likes": 3479,
+      "like_to_view_rate_pct": 2.95,
+      "comments": 211,
+      "duration_minutes": 10.6,
+      "upload_date": "20240805",
+      "days_since_upload": 813,
+      "views_per_day_velocity": 144.8,
+      "external_funnel_links": [
+        "http://www.bernsteinconsultings.com/?el=convers&utm_source=youtube"
+      ],
+      "description_first_300_chars": "🎓 🎓 Apply For a Free Consultation Session With Me Personally:  👉  http://www.bernsteinconsultings.com/?el=convers&utm_source=youtube    👤 Don't forget to subscribe on YouTube and Follow me on Instagram:  My IG  👉 https://www.instagram.com/michael_bernstein   In this video, i will answer your questio",
+      "tags": [],
+      "transcript_data": {
+        "available": false,
+        "reason": "HTTP Error 429: Too Many Requests"
+      }
+    },
+    {
+      "video_id": "QufRFAXJlOI",
+      "url": "https://www.youtube.com/watch?v=QufRFAXJlOI",
+      "title": "Google Ads Tutorial 2026 - How To Run Google Ads for Beginners",
+      "channel": "Metics Media",
+      "subscribers": 741000,
+      "views": 243437,
+      "true_icahn_views_to_subs_ratio": 0.33,
+      "is_icahn_outlier": false,
+      "is_karla_singson_b2b_candidate": false,
+      "likes": 5351,
+      "like_to_view_rate_pct": 2.2,
+      "comments": 338,
+      "duration_minutes": 40.4,
+      "upload_date": "20260319",
+      "days_since_upload": 222,
+      "views_per_day_velocity": 1096.6,
+      "external_funnel_links": [
+        "https://meticsmedia.com/hostinger-KAD",
+        "https://www.ads.google.com/",
+        "https://meticsmedia.com/deals"
+      ],
+      "description_first_300_chars": "In this Google ads tutorial for 2026, I show you exactly how to set up and run your first Google Ads search campaign.  ✅ Video Sponsor: Get an exclusive deal on building your professional website with Hostinger — plans from under $3/month: https://meticsmedia.com/hostinger-KAD  ➡️ Google Ads Homepag",
+      "tags": [
+        "Google Ads",
+        "Google Ads tutorial",
+        "Google Ads for beginners",
+        "how to run Google Ads",
+        "Google Ads search campaign",
+        "Google Ads account setup",
+        "keyword research",
+        "Google Keyword Planner",
+        "conversion tracking",
+        "Google tag",
+        "negative keywords",
+        "ad groups"
+      ],
+      "transcript_data": {
+        "available": false,
+        "reason": "HTTP Error 429: Too Many Requests"
+      }
+    },
+    {
+      "video_id": "daDsoHXE52A",
+      "url": "https://www.youtube.com/watch?v=daDsoHXE52A",
+      "title": "How To Increase Conversion Rates on Shopify (2026 Guide)",
+      "channel": "Chase Chappell",
+      "subscribers": 149000,
+      "views": 31512,
+      "true_icahn_views_to_subs_ratio": 0.21,
+      "is_icahn_outlier": false,
+      "is_karla_singson_b2b_candidate": false,
+      "likes": 951,
+      "like_to_view_rate_pct": 3.02,
+      "comments": 147,
+      "duration_minutes": 32.9,
+      "upload_date": "20251205",
+      "days_since_upload": 326,
+      "views_per_day_velocity": 96.7,
+      "external_funnel_links": [
+        "https://www.adsmastery.com/application?utm_source=youtube&utm_medium=conversion&utm_content=conversion",
+        "https://tiny-img.com?ref=chappell_training_technologies",
+        "https://try.sirge.com/start?utm_source=chase&utm_medium=youtube",
+        "https://apps.shopify.com/bundle-deals?mref=chasechappell",
+        "https://apps.shopify.com/cart-upsell?mref=ltahunni",
+        "https://apps.shopify.com/txtcart-plus?mref=chaseyoutube"
+      ],
+      "description_first_300_chars": "How we increase conversion rates on Shopify..     Work 1:1 with me to increase your conversion rate: https://www.adsmastery.com/application?utm_source=youtube&utm_medium=conversion&utm_content=conversion    Tools I mentioned in the video 👇  Page Speeds: https://tiny-img.com?ref=chappell_training_tec",
+      "tags": [
+        "Facebook Ads",
+        "Chase Chappell",
+        "tiktok ads",
+        "tiktok",
+        "cro",
+        "conversion rate optimization",
+        "cro shopify",
+        "conversion rate optimization shopify",
+        "conversion rate",
+        "shopify website design",
+        "shopify 2026",
+        "ecommerce cro"
+      ],
+      "transcript_data": {
+        "available": false,
+        "reason": "HTTP Error 429: Too Many Requests"
+      }
+    },
+    {
+      "video_id": "J20NheIH0IE",
+      "url": "https://www.youtube.com/watch?v=J20NheIH0IE",
+      "title": "How to improve your conversion rate",
+      "channel": "Alex Hormozi",
+      "subscribers": 4590000,
+      "views": 491192,
+      "true_icahn_views_to_subs_ratio": 0.11,
+      "is_icahn_outlier": false,
+      "is_karla_singson_b2b_candidate": false,
+      "likes": 37309,
+      "like_to_view_rate_pct": 7.6,
+      "comments": 194,
+      "duration_minutes": 0.4,
+      "upload_date": "20230214",
+      "days_since_upload": 1351,
+      "views_per_day_velocity": 363.6,
+      "external_funnel_links": [
+        "https://acquisition.com",
+        "https://skool.com/games",
+        "https://Skool.com"
+      ],
+      "description_first_300_chars": "Want to SCALE your business? Go here: https://acquisition.com  Want to START a business? Go here: https://skool.com/games   If you’re new to my channel, my name is Alex Hormozi. I’m the founder and managing partner of Acquisition.com. It’s a family office, which is just a formal way of saying we inv",
+      "tags": [
+        "Alex Hormozi",
+        "Alex Hormozi Business Tips",
+        "Alex Hormozi Gym Launch Secrets",
+        "Hormozi",
+        "Business guides",
+        "Business tips",
+        "Skillsets",
+        "Skill Stacking",
+        "The Game Podcast",
+        "mozination"
+      ],
+      "transcript_data": {
+        "available": false,
+        "reason": "HTTP Error 429: Too Many Requests"
+      }
+    },
+    {
+      "video_id": "xRixQiwF9BU",
+      "url": "https://www.youtube.com/watch?v=xRixQiwF9BU",
+      "title": "Így építs profi LANDING oldalt 3 lépésben 🤓",
+      "channel": "Balogh Dávid",
+      "subscribers": 15600,
+      "views": 646,
+      "true_icahn_views_to_subs_ratio": 0.04,
+      "is_icahn_outlier": false,
+      "is_karla_singson_b2b_candidate": true,
+      "likes": 13,
+      "like_to_view_rate_pct": 2.01,
+      "comments": 1,
+      "duration_minutes": 4.0,
+      "upload_date": "20220622",
+      "days_since_upload": 1588,
+      "views_per_day_velocity": 0.4,
+      "external_funnel_links": [
+        "https://boommarketing.hu/blog/",
+        "https://boommarketing.hu/arajanlatkeres/",
+        "https://boommarketing.hu/online-marketing-oktatoanyagok/",
+        "https://boommarketing.hu/boomcast-shorts/igy-epits-profi-landing-oldalt-3-lepesben/"
+      ],
+      "description_first_300_chars": "Ebben az adásban megmutatom, hogy hogyan tudsz Te is profi landing oldalt tervezni és építeni 3 egyszerű lépésben.  🤓 Rengeteg cikket publikálok a blogunkon is (ha inkább olvasni szeretsz): https://boommarketing.hu/blog/  💣 Ha számodra is csak nyűg a marketing, akkor beszéljünk: https://boommarketin",
+      "tags": [
+        "landing page",
+        "landing oldal",
+        "landoló oldal",
+        "érkező oldal",
+        "sales oldal",
+        "értékesítési oldal",
+        "online marketing",
+        "boom marketing",
+        "marketing",
+        "marketing 2022",
+        "marketing tippek"
+      ],
+      "transcript_data": {
+        "available": true,
+        "language": "hu",
+        "is_auto_generated": false,
+        "total_word_count": 610,
+        "first_30_seconds_hook": "Ez itt a BOOMCast SHORTS, Balogh Dáviddal. Az előző adásban már beszéltünk arról, hogy mégis mi az a landing page és bemutattam azt is, hogy milyen típusai vannak. Most pedig térjünk rá arra, hogy hogyan tudsz 3 egyszerű lépésben profi landing oldalt készíteni. Az első lépés a tervezés lesz. Itt nagyon fontos, hogy az alapokat kell kitalálnod. Nagyon fontos lesz, hogy mi lesz a cél konverziód, hogy kinek szól majd az ajánlat és, hogy honnan szerzed majd a látogatókat.",
+        "first_30s_word_count": 79,
+        "full_transcript_preview_1500_chars": "Ez itt a BOOMCast SHORTS, Balogh Dáviddal. Az előző adásban már beszéltünk arról, hogy mégis mi az a landing page és bemutattam azt is, hogy milyen típusai vannak. Most pedig térjünk rá arra, hogy hogyan tudsz 3 egyszerű lépésben profi landing oldalt készíteni. Az első lépés a tervezés lesz. Itt nagyon fontos, hogy az alapokat kell kitalálnod. Nagyon fontos lesz, hogy mi lesz a cél konverziód, hogy kinek szól majd az ajánlat és, hogy honnan szerzed majd a látogatókat. Ha ezt a 3 szempontot figyelembe veszed, akkor máris meg tudod tervezni azt, hogy milyen landing oldalra van szükséged. Ha mondjuk az email listád méretét növelnéd, akkor egy egyszerű opt-in oldalra lesz szükség. Ezt viszonylag könnyen meg tudod csinálni, nem is kell hozzá hosszú oldal, tudnod kell, hogy mit kínálsz fel és kinek kínálod fel ezeket. Ha viszont értékesíteni szeretnél egy terméket, vagy szolgáltatást akkor sokkal hosszabb lesz az a tervezési folyamat és sokkal több mindent kell itt átgondolnod. Hogy ha ezeket a szempontokat kitaláltad akkor jön a második lépés, ami a konkrét felvázolása a landing oldal elemeinek. Az biztos, hogy ez a legidőigényesebb lépés mind közül és nagyon kritikus pontja a landing oldal készítésnek, mert ha itt nem jól tervezel, nem jól rajzolgatsz, akkor egyszerűen nem fog majd konvertálni a landing oldalad. És itt azt kell megértened, hogy maga a landing oldal azért felel, hogy az online világban is érvényesülhess. Ez azt jelenti, hogy ha mondjuk van egy terméked, amit el ak",
+        "full_transcript": "Ez itt a BOOMCast SHORTS, Balogh Dáviddal. Az előző adásban már beszéltünk arról, hogy mégis mi az a landing page és bemutattam azt is, hogy milyen típusai vannak. Most pedig térjünk rá arra, hogy hogyan tudsz 3 egyszerű lépésben profi landing oldalt készíteni. Az első lépés a tervezés lesz. Itt nagyon fontos, hogy az alapokat kell kitalálnod. Nagyon fontos lesz, hogy mi lesz a cél konverziód, hogy kinek szól majd az ajánlat és, hogy honnan szerzed majd a látogatókat. Ha ezt a 3 szempontot figyelembe veszed, akkor máris meg tudod tervezni azt, hogy milyen landing oldalra van szükséged. Ha mondjuk az email listád méretét növelnéd, akkor egy egyszerű opt-in oldalra lesz szükség. Ezt viszonylag könnyen meg tudod csinálni, nem is kell hozzá hosszú oldal, tudnod kell, hogy mit kínálsz fel és kinek kínálod fel ezeket. Ha viszont értékesíteni szeretnél egy terméket, vagy szolgáltatást akkor sokkal hosszabb lesz az a tervezési folyamat és sokkal több mindent kell itt átgondolnod. Hogy ha ezeket a szempontokat kitaláltad akkor jön a második lépés, ami a konkrét felvázolása a landing oldal elemeinek. Az biztos, hogy ez a legidőigényesebb lépés mind közül és nagyon kritikus pontja a landing oldal készítésnek, mert ha itt nem jól tervezel, nem jól rajzolgatsz, akkor egyszerűen nem fog majd konvertálni a landing oldalad. És itt azt kell megértened, hogy maga a landing oldal azért felel, hogy az online világban is érvényesülhess. Ez azt jelenti, hogy ha mondjuk van egy terméked, amit el akarsz adni és leülsz szemtől szembe valakivel akár egy sales score során akár csak a barátodnak, rokonodnak mondod el ennek a részleteit, akkor megvan a fejedben az, hogy mi lesz a beszélgetés menete. Tudod, hogy mivel kezdesz, hogy miket mondasz el, hogy milyen kérdésekre adsz választ, hogy milyen kifogásai lesznek a másiknak, amiket megválaszolsz. És ha ezeken mindegyiken végigmész, akkor tudod felépíteni igazából azt, hogy lesz egy sikeres értékesítési folyamatod. Tehát azt kell legelőször átgondolnod itt, hogy miről beszélsz akkor, amikor személyesen prezentálod valakinek az ajánlatodat, termékedet, ötletedet. És, ha ezzel megvagy akkor ezt kell átültetni egy landing oldalba. A blokkok is úgy épülnek majd fel, ugye különböző blokkokból áll mindig a landing oldal és ezek is úgy épülnek fel, abban a logikai sorrendben, ahogy személyesen is beszélnél valakivel. Például nem az árral nyitsz egyből, amikor valakivel beszélsz, tehát a landing oldalon sem azzal fogsz kezdeni és nem is mások véleményét teszed majd be, mert nem úgy ülsz le valakivel szemtől szemben, hogy Marika azt mondta, hogy X,Y. Szóval nagyon fontos a logika és a landing oldal felépítésének logikáját is abból tudod majd kitalálni, hogy egy ilyen beszélgetés hogyan zajlik nálad a gyakorlatban. És ami itt nagyon fontos, hogy rajzolnod kell, én minden egyes landing oldalt, amit tervezek felrajzolok, kézzel, manuálisan és utána már látom azt, hogy hogyan fog felépülni, milyen blokkokból és ezután jöhet majd a következő lépés. És következő lépés, ami egyben az utolsó az a tényleges megépítése a landing oldalnak. Ha jól átgondoltad az alapokat és szépen felvázoltad, megtervezted, megrajzoltad a felépítését. Akkor itt már nem sok problémád lesz vele, egyszerűen egy jó dizájnt kell szabni rá, meg kell építeni a blokkokat és ugye jön majd utána a copywriting, illetve a kreatívok elkészítése. És ez lett volna az a 3 egyszerű lépés, ahogy fel tudsz építeni egy igazán profi landing oldalt. És ennyi lett volna a mai BOOMCast SHORTS. Ha még valamiért nem tetted volna akkor iratkozz fel a csatornákra, mert hetente három új BOOMCast SHORTS-szal fogunk jelentkezni. És érdemes belépned a zárt Facebook csoportunkba is, ahol akár személyesen velünk is beszélgethetsz, de kérdéseket is tehetsz fel és a közösségünk tagjait is megtalálod. Gyere és csatlakozz hozzánk, a linket megtalálod a leírásban. Találkozunk a következő adásban.",
+        "timestamped_segments_sample": [
+          {
+            "t": 0.1,
+            "text": "Ez itt a BOOMCast SHORTS, Balogh Dáviddal."
+          },
+          {
+            "t": 5.2,
+            "text": "Az előző adásban már beszéltünk arról, hogy"
+          },
+          {
+            "t": 7.5,
+            "text": "mégis mi az a landing page és bemutattam azt is, hogy milyen típusai vannak."
+          },
+          {
+            "t": 11.9,
+            "text": "Most pedig térjünk rá arra, hogy hogyan tudsz"
+          },
+          {
+            "t": 14.2,
+            "text": "3 egyszerű lépésben profi landing oldalt készíteni."
+          },
+          {
+            "t": 18.1,
+            "text": "Az első lépés a tervezés lesz. Itt nagyon fontos, hogy az alapokat kell kitalálnod."
+          },
+          {
+            "t": 24.1,
+            "text": "Nagyon fontos lesz, hogy mi lesz a cél"
+          },
+          {
+            "t": 26.1,
+            "text": "konverziód, hogy kinek szól majd az ajánlat és, hogy honnan szerzed majd a látogatókat."
+          },
+          {
+            "t": 32.2,
+            "text": "Ha ezt a 3 szempontot figyelembe"
+          },
+          {
+            "t": 33.8,
+            "text": "veszed, akkor máris meg tudod tervezni azt, hogy milyen landing"
+          },
+          {
+            "t": 36.8,
+            "text": "oldalra van szükséged."
+          },
+          {
+            "t": 38.5,
+            "text": "Ha mondjuk az email listád méretét növelnéd,"
+          },
+          {
+            "t": 41.3,
+            "text": "akkor egy egyszerű opt-in oldalra lesz szükség."
+          },
+          {
+            "t": 43.5,
+            "text": "Ezt viszonylag könnyen meg tudod csinálni, nem is kell hozzá hosszú oldal,"
+          },
+          {
+            "t": 47.2,
+            "text": "tudnod kell, hogy mit kínálsz fel és kinek kínálod fel ezeket."
+          },
+          {
+            "t": 50.7,
+            "text": "Ha viszont értékesíteni szeretnél egy"
+          },
+          {
+            "t": 52.9,
+            "text": "terméket, vagy szolgáltatást akkor sokkal hosszabb lesz az a tervezési folyamat és"
+          },
+          {
+            "t": 57.8,
+            "text": "sokkal több mindent kell itt átgondolnod. Hogy ha ezeket a szempontokat kitaláltad"
+          },
+          {
+            "t": 62.5,
+            "text": "akkor jön a második lépés, ami a konkrét felvázolása a landing"
+          },
+          {
+            "t": 66.7,
+            "text": "oldal elemeinek."
+          },
+          {
+            "t": 68.3,
+            "text": "Az biztos, hogy ez a legidőigényesebb lépés"
+          },
+          {
+            "t": 70.6,
+            "text": "mind közül és nagyon kritikus pontja a landing oldal készítésnek,"
+          },
+          {
+            "t": 74.8,
+            "text": "mert ha itt nem jól tervezel, nem jól"
+          },
+          {
+            "t": 76.5,
+            "text": "rajzolgatsz, akkor egyszerűen nem fog majd konvertálni a landing oldalad."
+          },
+          {
+            "t": 80.8,
+            "text": "És itt azt kell megértened, hogy maga a landing"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CGE 10x Master Academy & Autonomous YouTube Workbench</title>
+  <style>
+    :root {
+      --bg: #0b0e14;
+      --panel: #131822;
+      --panel-alt: #1a2130;
+      --border: #283248;
+      --text: #eef2f8;
+      --muted: #9aa7bd;
+      --accent: #facc15;
+      --accent-glow: rgba(250, 204, 21, 0.18);
+      --green: #22c55e;
+      --red: #ef4444;
+      --blue: #38bdf8;
+      --purple: #a855f7;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Inter, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #111827 0%, #0b0e14 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 24px 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .brand-badge {
+      background: var(--accent);
+      color: #000;
+      font-weight: 900;
+      padding: 8px 14px;
+      border-radius: 8px;
+      letter-spacing: 0.5px;
+      font-size: 15px;
+    }
+    .brand h1 {
+      font-size: 22px;
+      font-weight: 800;
+    }
+    .brand p {
+      color: var(--muted);
+      font-size: 13px;
+    }
+    nav {
+      display: flex;
+      gap: 8px;
+      padding: 12px 32px;
+      background: var(--panel);
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+    }
+    .tab-btn {
+      background: transparent;
+      color: var(--muted);
+      border: 1px solid transparent;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 13.5px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+    }
+    .tab-btn:hover {
+      color: var(--text);
+      background: var(--panel-alt);
+    }
+    .tab-btn.active {
+      background: var(--accent-glow);
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+    main {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 28px 32px 64px;
+    }
+    .tab-pane { display: none; }
+    .tab-pane.active { display: block; }
+    .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(420px, 1fr)); gap: 20px; }
+    .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(310px, 1fr)); gap: 18px; }
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 22px;
+      margin-bottom: 20px;
+    }
+    .card h2 {
+      font-size: 19px;
+      margin-bottom: 10px;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .card h3 {
+      font-size: 15.5px;
+      color: var(--accent);
+      margin: 14px 0 6px;
+    }
+    .pill {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 999px;
+      font-size: 11.5px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    .pill-yellow { background: var(--accent-glow); color: var(--accent); border: 1px solid var(--accent); }
+    .pill-green { background: rgba(34,197,94,0.15); color: var(--green); border: 1px solid var(--green); }
+    .pill-blue { background: rgba(56,189,248,0.15); color: var(--blue); border: 1px solid var(--blue); }
+    .pill-red { background: rgba(239,68,68,0.15); color: var(--red); border: 1px solid var(--red); }
+    label {
+      display: block;
+      font-size: 12.5px;
+      font-weight: 700;
+      color: var(--muted);
+      margin-bottom: 5px;
+      margin-top: 12px;
+      text-transform: uppercase;
+    }
+    input, textarea, select {
+      width: 100%;
+      background: #0d1119;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 10px 12px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: inherit;
+    }
+    textarea { min-height: 85px; resize: vertical; }
+    button.action-btn {
+      background: var(--accent);
+      color: #000;
+      border: none;
+      padding: 11px 20px;
+      border-radius: 8px;
+      font-weight: 800;
+      font-size: 14px;
+      cursor: pointer;
+      margin-top: 16px;
+      transition: transform 0.1s ease;
+    }
+    button.action-btn:hover { transform: translateY(-1px); filter: brightness(1.06); }
+    button.copy-btn {
+      background: var(--panel-alt);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button.copy-btn:hover { border-color: var(--accent); color: var(--accent); }
+    pre {
+      background: #090c12;
+      border: 1px solid var(--border);
+      padding: 14px;
+      border-radius: 8px;
+      overflow-x: auto;
+      font-size: 12.8px;
+      color: #d1fae5;
+      white-space: pre-wrap;
+      margin-top: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+      font-size: 13.5px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 11px 12px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background: var(--panel-alt);
+      color: var(--accent);
+      font-weight: 700;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+    .slide-img {
+      width: 100%;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      margin-top: 10px;
+    }
+    .stat-box {
+      background: var(--panel-alt);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+    }
+    .stat-box .big {
+      font-size: 26px;
+      font-weight: 900;
+      color: var(--accent);
+    }
+    .formula-banner {
+      background: linear-gradient(90deg, rgba(250,204,21,0.12), rgba(56,189,248,0.12));
+      border: 1px solid var(--accent);
+      border-radius: 10px;
+      padding: 16px 20px;
+      font-size: 16px;
+      font-weight: 800;
+      text-align: center;
+      margin: 16px 0;
+    }
+    ul.clean-list { padding-left: 18px; margin-top: 8px; }
+    ul.clean-list li { margin-bottom: 6px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <span class="brand-badge">CGE 10X ENGINE</span>
+    <div>
+      <h1>Shane Hummus Content Growth Engine — Reverse-Engineered & 10x Upgraded</h1>
+      <p>Complete 204-Slide Deconstruction • 7 Skool Modules • 9 Claude Skills • Interactive Calculators & Local CLI Toolkit</p>
+    </div>
+  </div>
+  <div>
+    <a href="SLIDES_AND_TRANSCRIPT_VIEWER.html" style="color:var(--accent);font-weight:700;text-decoration:none;margin-right:16px;">▶ Open 204-Slide + Transcript Sync Viewer</a>
+    <a href="SHANE_HUMMUS_YOUTUBE_PLAYBOOK.md" style="color:var(--blue);font-weight:700;text-decoration:none;">📄 View Master Playbook (.md)</a>
+  </div>
+</header>
+
+<nav>
+  <button class="tab-btn active" onclick="switchTab('tab-curriculum', this)">1. The 7-Module System (Taught Step-by-Step)</button>
+  <button class="tab-btn" onclick="switchTab('tab-niche', this)">2. Niche 2.0 & Cash Code RPM Calculator</button>
+  <button class="tab-btn" onclick="switchTab('tab-icahn', this)">3. ICAHN Outlier & Wildcard Studio</button>
+  <button class="tab-btn" onclick="switchTab('tab-trifecta', this)">4. Holy Trifecta & 30s Intro Linter</button>
+  <button class="tab-btn" onclick="switchTab('tab-aivault', this)">5. Leaked AI Vault (9 Claude Skills + 12 GPTs)</button>
+  <button class="tab-btn" onclick="switchTab('tab-tools', this)">6. Deep Research: Local Tools Architecture</button>
+  <button class="tab-btn" onclick="switchTab('tab-cases', this)">7. All 30 Client Case Studies</button>
+</nav>
+
+<main>
+
+  <!-- TAB 1: FULL CURRICULUM -->
+  <section id="tab-curriculum" class="tab-pane active">
+    <div class="formula-banner">
+      THE SECRET FORMULA (Slide 083): Personal Branding + Niche 2.0 + YouTube Automation AI System = HYBRID PERSONAL BRAND ("You Are The Niche")
+    </div>
+
+    <div class="grid-3">
+      <div class="stat-box">
+        <span class="pill pill-yellow">The 80/20² Rule</span>
+        <div class="big">64% of Results</div>
+        <p style="font-size:13px;color:var(--muted);">Comes from just 4% of actions: <strong>1. Niche 2.0</strong>, <strong>2. ICAHN Outlier Ideas</strong>, and <strong>3. The Holy Trifecta (Thumbnail + Title + 30s Intro)</strong>.</p>
+      </div>
+      <div class="stat-box">
+        <span class="pill pill-green">True Business RPM</span>
+        <div class="big">$400 – $1,736+</div>
+        <p style="font-size:13px;color:var(--muted);">Revenue per 1,000 views when combining high-CPM education ($20+ RPM), high-CPA affiliates ($400 RPM), and high-ticket B2B/Coaching ($1,736+ RPM).</p>
+      </div>
+      <div class="stat-box">
+        <span class="pill pill-blue">Time & Gear Floor</span>
+        <div class="big">2–4 Hrs/Wk • &lt;$500</div>
+        <p style="font-size:13px;color:var(--muted);">1 batch filming day/month (4 videos) using an $109 Elgato Facecam + VibeWriter scripts + $5–$8/hr Filipino editors on OnlineJobs.ph.</p>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:20px;">
+      <h2>Master Curriculum: Inside All 7 Gated CGE Skool Modules (Slides 106–112) + 2026 SOTA Upgrades</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Module</th>
+            <th>What Shane Teaches Inside CGE</th>
+            <th>Our 10x Upgrade (2026 Industry SOTA)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>#1: Niche 2.0 Selection System</strong><br><span class="pill pill-yellow">Slide 106</span></td>
+            <td>
+              • <strong>The Niche Hypothesis Statement (Slide 077)</strong>: <code>I HELP "X" OVERCOME "Y" BY DOING "Z"</code>.<br>
+              • <strong>Level 1 → Level 3 → Level 5 Value Ladder (Slides 078–081)</strong>: Moving from broke students (Level 1) to career switchers (Level 3) or corporate B2B buyers (Level 5).<br>
+              • <strong>Water-Body Expansion</strong>: Start in a hyper-specific <em>Puddle</em> (e.g., Alex Hormozi helping gym owners, Slide 085) before expanding to the <em>Ocean</em>.
+            </td>
+            <td>
+              • <strong>Minimum Viable View Threshold (MVVT) Math</strong>: Calculating exact views needed per month before filming Video #1 via <code>niche_20_calculator.py</code>.<br>
+              • <strong>50/50 Traffic Split</strong>: Separating high-volume Level 3 Reach videos from ultra-high-converting Level 5 Buyer videos.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#2: The Core Foundations</strong><br><span class="pill pill-yellow">Slide 107</span></td>
+            <td>
+              • <strong>Audience-First vs. Product-First</strong>: Build attention first, poll/mine comments for burning pains, then sell the solution.<br>
+              • <strong>1 Simple Rule (Slides 093–095)</strong>: You do NOT need fancy cameras, studios, or entertainment skills. You ONLY need: (1) Viral Video Ideas, (2) Clickable Title/Thumbnail, (3) 30s Retention Intro, (4) Real Value.
+            </td>
+            <td>
+              • <strong>The Evolution Method (3-Video Triads & 30-Video Rule)</strong>: Testing every topic bucket in sets of 3 videos to filter algorithmic noise and mutating the top 20% outliers.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#3: Content Genesis System (ICAHN Method)</strong><br><span class="pill pill-yellow">Slide 108</span></td>
+            <td>
+              • <strong>Step 1 (Slide 097)</strong>: Find a small channel (&lt;10K subs) with a massive outlier video (e.g., <em>Gentle John</em> 10.6K subs getting 760K views on <em>The Most Worthless College Majors</em>).<br>
+              • <strong>Step 2 (Slide 097)</strong>: Type <code>*keyword</code> (e.g., <code>*college degrees</code>) into YouTube Search with Keywords Everywhere to find the highest-volume variation (<code>worst college degrees</code>).<br>
+              • <strong>Step 3 (Slide 098)</strong>: Apply a <strong>Slight Twist</strong> so you don't compete with the exact same title $\rightarrow$ 4.2M views.
+            </td>
+            <td>
+              • <strong>Automated ICAHN Radar (<code>icahn_radar.py</code>)</strong>: Scrapes live YouTube autocomplete wildcards and calculates cohort outlier multipliers automatically.<br>
+              • <strong>The "Bad Management" Filter</strong>: Specifically targeting videos with <code>&gt;5x</code> outlier views AND <code>&lt;4/10</code> thumbnail quality for guaranteed execution arbitrage.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#4: The Holy Trifecta System</strong><br><span class="pill pill-yellow">Slide 109</span></td>
+            <td>
+              • <strong>Viewer Eye-Tracking Sequence (Slide 133)</strong>: <code>Thumbnail 👉 Title 👉 Intro</code>.<br>
+              • <strong>Inside the Thumbnail</strong>: 1st = <strong>The Eyes 👁️</strong> (blow up head so <strong>THE WHITES OF YOUR EYES</strong> are clear, barely any gap top/bottom) $\rightarrow$ 2nd = Facial Expression $\rightarrow$ 3rd = 2–4 Word Corner Text & Prop.<br>
+              • <strong>Rule of Thirds + Remixing</strong>: Place face on right Rule-of-Thirds line; remix Graham Stephan's corner text/prop with Teachingmensfashion's ❌/✔️ split.
+            </td>
+            <td>
+              • <strong>Local Computer-Vision Grader (<code>thumbnail_analyzer.py</code>)</strong>: Generates red Rule-of-Thirds overlay + <code>168x94px</code> mobile squint test + Title-Thumbnail word overlap penalty.<br>
+              • <strong>3-Angle Native Test & Compare</strong>: Uploading (1) Face+Emotion, (2) ❌/✔️ Split, and (3) Pure Object/Data graphic on every video.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#5: Scriptwriting Alchemy & VibeWriter</strong><br><span class="pill pill-yellow">Slide 110</span></td>
+            <td>
+              • <strong>4-Part 30-Second Intro</strong>: 0–5s Click Confirmation $\rightarrow$ 5–15s Curiosity Loop & Stakes $\rightarrow$ 15–22s 1-Sentence Proof $\rightarrow$ 22–30s Fast Dive into #1.<br>
+              • <strong>VibeWriter AI Deluxe (Slide 138)</strong>: Speaking your raw thoughts to AI so scripts sound like you, not robotic ChatGPT slop.
+            </td>
+            <td>
+              • <strong>Anti-Slop Linter (<code>holy_trifecta_vibe_writer.py</code>)</strong>: Enforces $\le 15$ words/sentence, bans 18 AI-slop phrases, injects Pattern Interrupts every 90s, and scripts an abrupt <strong>Aprilynne Alter End-Screen Binge Bridge</strong>.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#6: Viral Video Creation & Apex Talent</strong><br><span class="pill pill-yellow">Slide 111</span></td>
+            <td>
+              • <strong>Under-$500 Tech Stack (Slide 135–136)</strong>: Elgato Facecam 1080p ($109.99) + USB dynamic mic + Descript.<br>
+              • <strong>1 Day/Month Batching</strong>: Record 4 videos in one afternoon; delegate editing to $5–$8/hr Filipino editors on <code>OnlineJobs.ph</code> (like client Thomas working <strong>ZERO hours/week</strong>, Slide 190).
+            </td>
+            <td>
+              • <strong>Dual-Column Editor Production Pack</strong>: Automatically outputs Left-Column Visual/B-Roll cues alongside Right-Column Spoken Script so offshore editors never guess what to put on screen.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>#7: The Cash Code System</strong><br><span class="pill pill-yellow">Slide 112</span></td>
+            <td>
+              • <strong>6 Hybrid Revenue Streams (Slide 087)</strong>: AdSense + Affiliates + Sponsorships (even at 446 subs like Guy, Slide 092) + Job Opportunities + SaaS/Membership + High-Ticket Offer.<br>
+              • <strong>Post-Booking Confirmation Flow (Slides 146–153)</strong>: Forcing prospects to click <em>"I know the sender"</em> in Gmail so calendar invites don't vanish + 5-step pre-call VSL homework + 30-case-study Wall of Proof.
+            </td>
+            <td>
+              • <strong>Multi-Touch Video Revenue Attribution</strong>: Unique UTM tracking per video ID (<code>?utm_content=vid_014</code>) + On-Platform Bridge routing (Reach Video $\rightarrow$ Buyer Video $\rightarrow$ VSL Booking Page).
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <h2>Visual Proof: Niche Hypothesis & Hybrid Formula</h2>
+        <img class="slide-img" src="slides/slide_077_01-03-02.png" alt="Slide 077 Niche Hypothesis Statement" />
+        <img class="slide-img" src="slides/slide_083_01-14-28.png" alt="Slide 083 Secret Formula" />
+      </div>
+      <div class="card">
+        <h2>Visual Proof: High-Converting Thumbnail Toolkit™</h2>
+        <img class="slide-img" src="slides/slide_133_01-45-26.png" alt="Slide 133 Thumbnail Toolkit" />
+        <img class="slide-img" src="slides/slide_145_01-52-02.png" alt="Slide 145 Unblurred Bonuses" />
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 2: NICHE 2.0 & CASH CODE CALCULATOR -->
+  <section id="tab-niche" class="tab-pane">
+    <div class="grid-2">
+      <div class="card">
+        <h2>Interactive Niche 2.0 & Cash Code RPM Simulator</h2>
+        <p style="color:var(--muted);font-size:13.5px;">Enter your candidate avatar, problem, solution, and offer metrics to generate your Level 1→5 Value Ladder and exact view requirements.</p>
+
+        <label>Specific Market / Avatar ("X")</label>
+        <input id="niche-x" type="text" value="Roofing & HVAC Business Owners" />
+
+        <label>Specific Burning Problem ("Y")</label>
+        <input id="niche-y" type="text" value="losing $20K/month in missed after-hours calls" />
+
+        <label>Specific Solution / Mechanism ("Z")</label>
+        <input id="niche-z" type="text" value="24/7 AI Voice & SMS Booking Agents" />
+
+        <div class="grid-2" style="gap:12px;">
+          <div>
+            <label>Target Monthly Income ($)</label>
+            <input id="niche-income" type="number" value="30000" />
+          </div>
+          <div>
+            <label>High-Ticket Offer Price ($)</label>
+            <input id="niche-offer" type="number" value="3500" />
+          </div>
+        </div>
+
+        <div class="grid-2" style="gap:12px;">
+          <div>
+            <label>Affiliate Commission CPA ($)</label>
+            <input id="niche-cpa" type="number" value="150" />
+          </div>
+          <div>
+            <label>Educational AdSense RPM ($)</label>
+            <input id="niche-rpm" type="number" value="25" />
+          </div>
+        </div>
+
+        <button class="action-btn" onclick="runNicheCalculator()">Calculate Niche 2.0 Blueprint & Cash Code Math</button>
+      </div>
+
+      <div class="card">
+        <h2>Generated Niche 2.0 & Cash Code Output</h2>
+        <div id="niche-output"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 3: ICAHN OUTLIER STUDIO -->
+  <section id="tab-icahn" class="tab-pane">
+    <div class="grid-2">
+      <div class="card">
+        <h2>ICAHN Method: Wildcard Expander & Slight-Twist Generator</h2>
+        <p style="color:var(--muted);font-size:13.5px;">Implements Slides 096–100: Generate instant <code>*keyword</code> YouTube wildcard search links + 8 "Slight Twist" Reach & Buyer video concepts.</p>
+
+        <label>Root Niche Keyword (Step 2)</label>
+        <input id="icahn-kw" type="text" value="AI Automation Agency" />
+
+        <label>Competitor Outlier Video Title (Optional — Step 1)</label>
+        <input id="icahn-comp" type="text" value="The Most Worthless AI Side Hustles in 2026" />
+
+        <button class="action-btn" onclick="runIcahnGenerator()">Generate Wildcard Matrix & 8 Slight-Twist Titles</button>
+
+        <h3 style="margin-top:22px;">Run Live Scraper in Terminal (Zero API Keys Required)</h3>
+        <pre id="icahn-cli-cmd">python "H:\Youtube agent\cge_engine\icahn_radar.py" --keyword "AI Automation Agency" --max-results 15</pre>
+      </div>
+
+      <div class="card">
+        <h2>Step 2 Wildcard Links & Step 3 Slight-Twist Titles</h2>
+        <div id="icahn-output"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 4: HOLY TRIFECTA & 30S INTRO LINTER -->
+  <section id="tab-trifecta" class="tab-pane">
+    <div class="grid-2">
+      <div class="card">
+        <h2>Holy Trifecta Synchronizer & 30-Second Intro Linter</h2>
+        <p style="color:var(--muted);font-size:13.5px;">Checks Title-to-Thumbnail redundancy, times your 4-part intro at 160 WPM (target: 65–85 words / 25–30 seconds), and scans for banned AI-slop phrases.</p>
+
+        <label>Video Title</label>
+        <input id="tri-title" type="text" value="7 Boring Businesses That Print $20K/Month" oninput="lintTrifecta()" />
+
+        <label>Thumbnail Text (Max 2–4 Bold Words — NEVER repeat Title!)</label>
+        <input id="tri-thumb" type="text" value="BORING = RICH" oninput="lintTrifecta()" />
+
+        <label>Part 1 [0:00–0:05] Click Confirmation (Validate Title & Thumbnail Promise)</label>
+        <textarea id="tri-p1" oninput="lintTrifecta()">Here is the truth about 7 Boring Businesses That Print $20K/Month. What looks 'boring = rich' is actually the fastest path for burned-out corporate employees.</textarea>
+
+        <label>Part 2 [0:05–0:15] Curiosity Loop & Stakes (Tease #3 or #1)</label>
+        <textarea id="tri-p2" oninput="lintTrifecta()">Make sure you stay for #3. It breaks every rule gurus teach, yet it drives 80% of our results.</textarea>
+
+        <label>Part 3 [0:15–0:22] 1-Sentence Credibility / Proof</label>
+        <textarea id="tri-p3" oninput="lintTrifecta()">We tested all of these over 12 months so you don't waste a single dollar.</textarea>
+
+        <label>Part 4 [0:22–0:30] Fast Dive into Point #1</label>
+        <input id="tri-p4" type="text" value="No fluff. Let's jump straight into #1." oninput="lintTrifecta()" />
+      </div>
+
+      <div class="card">
+        <h2>Live Telemetry, Redundancy & Anti-Slop Audit</h2>
+        <div id="tri-output"></div>
+        <h3 style="margin-top:18px;">Sample Computer-Vision Rule-of-Thirds Audit (<code>thumbnail_analyzer.py</code>)</h3>
+        <img class="slide-img" src="cge_engine/sample_thumbnail_audit.png" alt="Sample Rule of Thirds Audit" />
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 5: LEAKED AI VAULT -->
+  <section id="tab-aivault" class="tab-pane">
+    <div class="card">
+      <h2>Leaked Screen Proof: Shane's 9 Claude Personal Skills & 12 Custom GPTs (Slide 113)</h2>
+      <p style="color:var(--muted);font-size:13.5px;margin-bottom:12px;">All 9 skills are installed in your workspace at <code>H:\Youtube agent\.agent\skills\cge-youtube-engine\SKILL.md</code>. Click any prompt below to copy it for Claude or ChatGPT.</p>
+      <img class="slide-img" src="slides/slide_113_01-33-16.png" alt="Slide 113 AI Stack" style="max-height:420px;object-fit:contain;background:#000;" />
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <h2>1. <code>cge-niche-finder-niche-20-skill</code> (Niche Validator Pro)</h2>
+          <button class="copy-btn" onclick="copyPre('prompt-1', this)">Copy Prompt</button>
+        </div>
+        <pre id="prompt-1">You are Niche Validator Pro (built on Shane Hummus's Niche 2.0, Niche Hypothesis Ladder & Hybrid Personal Brand Framework).
+STEP 1: Ask me 4 quick intake questions (my skills/experiences, topics I enjoy, weekly hours available, and 90-day income goal).
+STEP 2: Generate 3 candidate niches inside Health, Wealth, or Relationships using the exact formula:
+"I HELP [Specific Market X] OVERCOME [Specific Problem Y] BY DOING [Specific Solution Z]."
+Show how to elevate each from Level 1 (broke beginners) to Level 3 (career/prosumer buyers) or Level 5 (high-ticket B2B buyers), and score from 1-10 across Passion, Credibility, Small-Channel Outlier Demand, and True Business RPM ($20 AdSense vs $400 Affiliate vs $1,736+ B2B).
+STEP 3: Map out the 4-Stage Water-Body Expansion Roadmap (Puddle -> Pond -> Lake -> Ocean Hybrid Personal Brand) and exact monthly views required to hit $10K-$30K/month.</pre>
+      </div>
+
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <h2>2. <code>cge-video-idea-finder-icahn-method-skill</code> (30s Idea Generator)</h2>
+          <button class="copy-btn" onclick="copyPre('prompt-2', this)">Copy Prompt</button>
+        </div>
+        <pre id="prompt-2">You are the CGE 30-Second Video Idea Generator powered by the Carl Icahn Method.
+Given my niche or a competitor outlier video title, execute this 3-step protocol:
+1. OUTLIER RAID ANALYSIS: Identify why the topic has proven demand on small channels (<10K subs) and name the core psychological trigger (Negativity Bias, Forbidden Truth, Ranked Tier List, or Severe Labor/Market Shortage).
+2. WILDCARD KEYWORD EXPANSION (*keyword): Output 15 high-intent YouTube autocomplete search phrases around the root noun.
+3. 10 "SLIGHT TWIST" VIDEO IDEAS: Following Shane's rule ("Get the same idea but with different titles — never compete with the EXACT same keywords"), generate 5 [REACH OUTLIER] titles and 5 [LEVEL-5 HIGH-TICKET BUYER] titles with matching 2-4 word thumbnail text.</pre>
+      </div>
+
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <h2>3. <code>cge-holy-trifecta-title-thumbnail-intro</code></h2>
+          <button class="copy-btn" onclick="copyPre('prompt-3', this)">Copy Prompt</button>
+        </div>
+        <pre id="prompt-3">You are the CGE Holy Trifecta Architect. For my video topic, generate a 100% congruent Packaging & Retention Blueprint:
+1. VIRAL THUMBNAIL BLUEPRINT (Slide 133 Eye-Tracking Laws):
+   - Right 1/3 Intersection: Exact facial expression + reminder to crop close so THE WHITES OF THE EYES are clearly visible with minimal top/bottom margin.
+   - Left 2/3 Zone: 1 unmistakable visual prop + 2-4 bold words of corner text that COMPLEMENTS (never repeats) the title.
+   - 3 Test & Compare Variants: (A) Face + Prop, (B) Red X vs Green Check Split, (C) Pure Object/Data Close-up.
+2. 3 COMPLEMENTARY TITLES (Negativity Bias, Ranked Data, Case Study).
+3. THE 30-SECOND INTRO SCRIPT (65-78 words max, <=15 words/sentence):
+   - [0:00-0:05] Click Confirmation
+   - [0:05-0:15] Curiosity Loop & Stakes (teasing #3 or #1)
+   - [0:15-0:22] 1-Sentence Proof
+   - [0:22-0:30] Fast Dive into #1</pre>
+      </div>
+
+      <div class="card">
+        <div style="display:flex;justify-content:space-between;align-items:center;">
+          <h2>4. <code>youtube-script-writer-skill</code> (VibeWriter AI Deluxe)</h2>
+          <button class="copy-btn" onclick="copyPre('prompt-4', this)">Copy Prompt</button>
+        </div>
+        <pre id="prompt-4">You are VibeWriter Content Creation AI Deluxe, CGE's anti-AI-slop ghostwriting engine.
+BANNED WORDS: delve, tapestry, testament, moreover, furthermore, in conclusion, fast-paced world, unleash, game-changer.
+Write at a conversational 6th-8th grade spoken cadence (short punchy sentences, <=15 words average).
+WORKFLOW:
+1. Ask me 3 rapid voice-interview questions first to extract my real stories, contrarian takes, and numbers.
+2. Output a Dual-Column Production Script (Left Column: Filipino Editor B-Roll & Pattern Interrupt cues every 90s; Right Column: Spoken Script) containing:
+   - Synchronized 30s Holy Trifecta Intro
+   - Value Bombs with Re-Hooks between every point
+   - Native 15-second Mid-Roll Cash Code Lead Magnet seed ("first link in the description")
+   - Abrupt End-Screen Binge Bridge into a specific Buyer Video (zero outro fluff).</pre>
+      </div>
+    </div>
+  </section>
+
+  <!-- TAB 6: DEEP RESEARCH TOOLS ARCHITECTURE -->
+  <section id="tab-tools" class="tab-pane">
+    <div class="card">
+      <h2>Deep Research: How Our Local <code>cge_engine</code> Out-Engineers Shane's $25,000 Stack</h2>
+      <p style="color:var(--muted);font-size:13.5px;">Comparison of every tool shown in the workshop against the local tools we built in <code>H:\Youtube agent\cge_engine\</code> and next-stage expansions.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Workflow Stage</th>
+            <th>Shane's CGE Tool ($9.8K–$30K Program)</th>
+            <th>Our Local Built Tool (<code>H:\Youtube agent\cge_engine\</code>)</th>
+            <th>How It Works & Why It's Better</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>1. Niche & RPM Validation</strong></td>
+            <td><code>cge-niche-finder-niche-20-skill</code> / <em>YouTube Niche Growth AI</em> ($12,000 bonus value)</td>
+            <td><code>niche_20_calculator.py</code> + Tab 2 Interactive Simulator</td>
+            <td>Computes Level 1/3/5 Niche Hypothesis upgrades, 4-stage Water-Body roadmap, and exact view thresholds across all 4 monetization models.</td>
+          </tr>
+          <tr>
+            <td><strong>2. Outlier & Keyword Hunting</strong></td>
+            <td><code>cge-video-idea-finder-icahn-method-skill</code> + Paid vidIQ MCP + Paid Keywords Everywhere ($7,500 bonus value)</td>
+            <td><code>icahn_radar.py</code> + Tab 3 Wildcard Studio</td>
+            <td>Queries YouTube's live autocomplete endpoint across 6 wildcard/intent matrices (<code>*kw</code>, <code>worst kw</code>, <code>best kw</code>) + scrapes live YouTube video view counts & cohort outlier multipliers with zero paid API keys.</td>
+          </tr>
+          <tr>
+            <td><strong>3. Pre-Publish Thumbnail Audit</strong></td>
+            <td><code>Thumbnail Analyzer by Content Growth Engine</code> Custom GPT + Canva Vault ($10,000 bonus value)</td>
+            <td><code>thumbnail_analyzer.py</code> (Pillow + NumPy Computer Vision)</td>
+            <td>Objective pixel-level math instead of LLM guessing: measures luminance std, HSV saturation pop, 3x3 Rule-of-Thirds edge energy, <code>168x94px</code> mobile contrast retention, and saves an annotated red-grid audit PNG.</td>
+          </tr>
+          <tr>
+            <td><strong>4. Holy Trifecta & Anti-Slop Scripting</strong></td>
+            <td><code>cge-holy-trifecta-title-thumbnail-intro</code> + <em>VibeWriter AI Deluxe</em> ($10,000 bonus value)</td>
+            <td><code>holy_trifecta_vibe_writer.py</code> + Tab 4 Live Linter</td>
+            <td>Real-time 160 WPM speaking timer, Title-to-Thumbnail word overlap detector, 18-word AI-slop phrase blocker, and dual-column Filipino Editor production sheet generator.</td>
+          </tr>
+          <tr>
+            <td><strong>5. Local Voice Table-Read (Bonus Integration)</strong></td>
+            <td>Manual reading</td>
+            <td>Integrates with your local <code>H:\TTS</code> Qwen3-TTS server (<code>http://localhost:7860</code>)</td>
+            <td>Lets you synthesize the 30-second intro and script in your cloned voice to hear pacing before turning on the Elgato Facecam.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- TAB 7: ALL 30 CLIENT CASE STUDIES -->
+  <section id="tab-cases" class="tab-pane">
+    <div class="card">
+      <h2>Complete Database of All 30 Named CGE Client Case Studies (Main Deck + Thank-You Page Wall of Proof)</h2>
+      <input id="case-filter" type="text" placeholder="Filter by niche, name, subscriber count, or revenue (e.g., 'B2B', 'faceless', 'nurse', '100K')..." oninput="filterCases()" style="margin-bottom:14px;" />
+      <table id="cases-table">
+        <thead>
+          <tr>
+            <th>Client / Channel</th>
+            <th>Niche / Avatar</th>
+            <th>Subscribers / Views</th>
+            <th>Verified Revenue / Business Outcome</th>
+            <th>Slides</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Sean (RoyaltyHero)</strong></td><td>B2B Client Acquisition</td><td>Organic YT Funnel</td><td>Scaled from $30K/mo to <strong>$504,235/mo ($400,204 cash)</strong>; best month $600K+</td><td>121, 154</td></tr>
+          <tr><td><strong>Troy Buckholdt (CourseCareers)</strong></td><td>Tech & Trade Career Certs</td><td>YouTube Affiliate Army</td><td>Scaled CourseCareers to <strong>$1,000,000+/month</strong> via YouTube affiliates</td><td>030, 170</td></tr>
+          <tr><td><strong>Josh Madakor (@JoshMadakor)</strong></td><td>IT & Cybersecurity Careers</td><td>199K subs • 240 videos</td><td>$5K/mo $\rightarrow$ $10K/mo $\rightarrow$ $30K/mo $\rightarrow$ <strong>$186,000/month</strong></td><td>041, 163</td></tr>
+          <tr><td><strong>Karla Singson (@karlasingson2263)</strong></td><td>B2B Offshore Talent Placement</td><td><strong>1.47K subs • 17–215 views/video</strong></td><td>Closed a <strong>$106,200/year contract</strong> inbound from tiny view counts</td><td>056, 156, 160</td></tr>
+          <tr><td><strong>Davis (@myconsultingoffer)</strong></td><td>Management Consulting Prep</td><td>Data-backed B2B funnel</td><td>Sales up 400% $\rightarrow$ consistent <strong>$100,000+/month</strong> consulting machine</td><td>039, 189</td></tr>
+          <tr><td><strong>Antoine</strong></td><td>Real Estate / Busy Professional</td><td>+800 subs & +30% watch time in 1 mo</td><td>Scaled to <strong>$100,000+/month</strong> while working a full-time job</td><td>163, 164</td></tr>
+          <tr><td><strong>Joaquin Revello (@JoaquinRevello)</strong></td><td>Grizzly Elite College Mentoring</td><td>12K subs • 57 videos</td><td>Went from $0 to <strong>$85,000/month</strong> (more than his university's president); sold-out waitlist</td><td>090, 166</td></tr>
+          <tr><td><strong>Zach of All Trades (@zachofallskilledtrades)</strong></td><td>Skilled Trades (HVAC, Plumbing)</td><td>45.1K subs • 822K top video</td><td>50yo brother bad at tech hit <strong>$214/day ($78K/yr run rate) in &lt;30 days</strong>; <strong>$18,328 single bank deposit</strong></td><td>030, 031</td></tr>
+          <tr><td><strong>Bill</strong></td><td>Career / Business Education</td><td>177K subs</td><td>Making <strong>$30,000+/month</strong> while working a full-time job</td><td>118, 120</td></tr>
+          <tr><td><strong>Nicole</strong></td><td>Cybersecurity Expert</td><td>Grew from <strong>85 subs to 50,000 subs</strong></td><td>Runs a <strong>$30,000+/month</strong> YouTube channel in a hyper-specific niche</td><td>158, 175</td></tr>
+          <tr><td><strong>Filip</strong></td><td>Business Owner / Creator</td><td>Cut workload from 30h/wk to <strong>3h/wk</strong></td><td>Scaled to <strong>$30,000+/month</strong> working 3 hours/week</td><td>165, 168</td></tr>
+          <tr><td><strong>Isaiah Harris</strong></td><td>Vocal Coach / Singing Business</td><td>0 $\rightarrow$ 9,000+ subs</td><td>Made <strong>$20K in 1 month</strong> from free tips, quit job, then <strong>64 paying clients ($35K+) in 1 quarter</strong></td><td>161, 162</td></tr>
+          <tr><td><strong>Alex Sheppe</strong></td><td>College Graduation Acceleration</td><td>Started at <strong>0 subs, 0 views</strong></td><td>Makes <strong>$15,000+/month</strong> on the side while keeping his full-time job</td><td>171, 172</td></tr>
+          <tr><td><strong>Richard Walls (@RichardWalls)</strong></td><td>Career Coach & Online MBA Reviews</td><td>42K subs • 463K top video</td><td>Hit <strong>$12,000/month</strong> while working 60–80+ hrs/week at his day job</td><td>091, 165</td></tr>
+          <tr><td><strong>Nurse Magda (@Utopiacareercenter)</strong></td><td>Kidney Health & Labs for Seniors</td><td>Revived dead channel (290 views) $\rightarrow$ <strong>113K subs & 913K views</strong></td><td>Hit her <strong>first $10,000/month</strong> after reviving a 2-year dead channel</td><td>037, 115</td></tr>
+          <tr><td><strong>Nurse Jen (@NurseJen)</strong></td><td>Healthy Aging for Seniors Over 70</td><td>63.6K subs • 11.2M total views</td><td><strong>$10,296.58/month AdSense</strong> ($980.69 peak day) filming from her camper van; quit telehealth nursing job</td><td>125, 183</td></tr>
+          <tr><td><strong>Wiz</strong></td><td>Faceless Creator / B2B Agency</td><td><strong>100% Faceless Channel</strong></td><td>Closes <strong>six-figure agency deals</strong> straight from faceless YouTube videos</td><td>170, 171</td></tr>
+          <tr><td><strong>Felix</strong></td><td>Investing Coach / Finance</td><td>#1 in his niche</td><td>Broke through plateau to make <strong>millions a year</strong> from YouTube</td><td>166, 173</td></tr>
+          <tr><td><strong>Thomas (Papa In Shape)</strong></td><td>Fitness / Multi-Channel</td><td>Multiple channels</td><td>Freed up 5–8 hrs/video and now works <strong>ZERO hours/week</strong> via delegation</td><td>154, 190</td></tr>
+          <tr><td><strong>Guy (@HearingCare-Channel)</strong></td><td>Hearing Aid Reviews (YourTinnitusGuy)</td><td>Started at 100 subs $\rightarrow$ 11.2K subs</td><td>Landed a <strong>$1,500 sponsorship at 446 subscribers</strong> (before AdSense); now makes full-time income working part-time</td><td>092, 196</td></tr>
+          <tr><td><strong>Lara</strong></td><td>Project Management Coach (Germany)</td><td><strong>Under 1,000 subscribers</strong> (unmonetized)</td><td>Landed <strong>10 paying coaching clients in 5 months</strong> prior to AdSense monetization</td><td>156, 182</td></tr>
+          <tr><td><strong>Cheryl T Campbell (@CherylTCampbell)</strong></td><td>Spiritual Life Coach</td><td>Stuck &lt;50 subs for years $\rightarrow$ <strong>9.28K subs & 128K outlier</strong></td><td>Hit YouTube Partner in 2 months + landed multiple brand deals</td><td>123, 157</td></tr>
+          <tr><td><strong>Seth</strong></td><td>Boring Side Hustles</td><td>7 years with 0 videos over 100K</td><td>Cracked <strong>2 videos over 100K+ views in first 40 days</strong> (301K views on <em>$120/Hr Boring Side Hustle</em>)</td><td>155, 191</td></tr>
+          <tr><td><strong>Clifford Stumme</strong></td><td>Multi-Channel College Creator</td><td>High views, $0 backend</td><td>Added <strong>$24,000/year from 1 single call</strong> with Shane without changing content</td><td>172</td></tr>
+          <tr><td><strong>Andrea Palten</strong></td><td>The Profitable Nutritionist</td><td>Neglected business channel</td><td>Reached <strong>first $10,000 milestone</strong>; clients booking calls on autopilot + delegated to CGE editor/thumbnail team</td><td>115, 176</td></tr>
+          <tr><td><strong>Trevor</strong></td><td>Coaching / 90-Day Program</td><td>New launch</td><td>Closed <strong>4 out of 5 booking calls at $997</strong> ($3,988) in his first week</td><td>117</td></tr>
+          <tr><td><strong>Judd</strong></td><td>Remote Work Niche</td><td>Stay-at-home dad (Uber + window cleaner)</td><td>Full-time on YouTube 5+ years; landed first <strong>$3,000 customer</strong> directly from channel</td><td>155, 200</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+</main>
+
+<script>
+  function switchTab(tabId, btn) {
+    document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(tabId).classList.add('active');
+    btn.classList.add('active');
+  }
+
+  function copyPre(id, btn) {
+    const text = document.getElementById(id).innerText;
+    navigator.clipboard.writeText(text);
+    const old = btn.innerText;
+    btn.innerText = "✓ Copied!";
+    setTimeout(() => btn.innerText = old, 1800);
+  }
+
+  function runNicheCalculator() {
+    const x = document.getElementById('niche-x').value.trim() || 'Business Owners';
+    const y = document.getElementById('niche-y').value.trim() || 'losing revenue';
+    const z = document.getElementById('niche-z').value.trim() || 'automated systems';
+    const income = parseFloat(document.getElementById('niche-income').value) || 20000;
+    const offer = parseFloat(document.getElementById('niche-offer').value) || 3500;
+    const cpa = parseFloat(document.getElementById('niche-cpa').value) || 150;
+    const rpm = parseFloat(document.getElementById('niche-rpm').value) || 25;
+
+    const clientsNeeded = Math.ceil(income / offer);
+    const callsNeeded = clientsNeeded * 4;
+    const viewToClientRate = 0.00075; // 2.5% CTR * 12% opt-in/book * 25% close
+    const viewsHighTicket = Math.ceil(clientsNeeded / viewToClientRate);
+    const trueRpmHighTicket = Math.round(offer * viewToClientRate * 1000);
+
+    const affSales = Math.ceil(income / cpa);
+    const viewsAffiliate = affSales * 1000;
+    const viewsEduAdsense = Math.ceil((income / rpm) * 1000);
+    const viewsEntAdsense = Math.ceil((income / 2) * 1000);
+
+    document.getElementById('niche-output').innerHTML = `
+      <div class="stat-box" style="margin-bottom:14px;">
+        <span class="pill pill-yellow">Verbatim Niche Hypothesis (Slide 077)</span>
+        <p style="font-weight:800;font-size:15px;margin-top:6px;">I HELP "${x.toUpperCase()}" OVERCOME "${y.toUpperCase()}" BY DOING "${z.toUpperCase()}"</p>
+      </div>
+      <h3>Value Ladder Progression (Slides 078–081)</h3>
+      <ul class="clean-list" style="font-size:13.5px;">
+        <li><span class="pill pill-red">Level 1 (Avoid)</span> <em>"I help students learn basic ${z} concepts."</em> (Broke spectators, $2–$5 RPM)</li>
+        <li><span class="pill pill-blue">Level 3 (Affiliates/Courses)</span> <em>"I help solo ${x} overcome ${y} using DIY ${z} templates."</em> ($150–$400 True RPM)</li>
+        <li><span class="pill pill-green">Level 5 (High-Ticket Cash Code)</span> <em>"I help established ${x} overcome ${y} by installing done-for-you ${z}."</em> (<strong>$${trueRpmHighTicket.toLocaleString()} True RPM</strong>)</li>
+      </ul>
+      <h3 style="margin-top:16px;">Monthly Views Required to Hit $${income.toLocaleString()}/Month</h3>
+      <table>
+        <thead>
+          <tr><th>Monetization Model</th><th>True RPM</th><th>Monthly Views Needed</th><th>Views/Video (at 4 vids/mo)</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>1. Entertainment AdSense (Boogie2988)</td><td>$2.00</td><td>${viewsEntAdsense.toLocaleString()} views</td><td>${Math.ceil(viewsEntAdsense/4).toLocaleString()}</td></tr>
+          <tr><td>2. Pure Education AdSense (Organic Chem Tutor)</td><td>$${rpm.toFixed(2)}</td><td>${viewsEduAdsense.toLocaleString()} views</td><td>${Math.ceil(viewsEduAdsense/4).toLocaleString()}</td></tr>
+          <tr><td>3. Affiliate + AdSense (Shane Main Channel)</td><td>$${(cpa + rpm).toFixed(2)}</td><td>${viewsAffiliate.toLocaleString()} views (${affSales} sales)</td><td>${Math.ceil(viewsAffiliate/4).toLocaleString()}</td></tr>
+          <tr style="background:rgba(34,197,94,0.12);"><td><strong>4. High-Ticket Cash Code (Level 5 B2B/Coaching)</strong></td><td><strong>$${trueRpmHighTicket.toLocaleString()}</strong></td><td><strong>${viewsHighTicket.toLocaleString()} views (${clientsNeeded} clients / ${callsNeeded} calls)</strong></td><td><strong>${Math.ceil(viewsHighTicket/4).toLocaleString()} views/video</strong></td></tr>
+        </tbody>
+      </table>
+    `;
+  }
+
+  function runIcahnGenerator() {
+    const kw = document.getElementById('icahn-kw').value.trim() || 'college degrees';
+    const wildcards = [
+      `* ${kw}`, `worst ${kw}`, `best ${kw}`, `most useless ${kw}`,
+      `${kw} for beginners`, `${kw} that pay well`, `truth about ${kw}`, `how to start ${kw}`
+    ];
+    const linksHtml = wildcards.map(w => {
+      const url = `https://www.youtube.com/results?search_query=${encodeURIComponent(w)}`;
+      return `<a href="${url}" target="_blank" class="pill pill-blue" style="text-decoration:none;margin:3px;">🔍 ${w} ↗</a>`;
+    }).join(' ');
+
+    document.getElementById('icahn-cli-cmd').innerText = `python "H:\\Youtube agent\\cge_engine\\icahn_radar.py" --keyword "${kw}" --max-results 15`;
+
+    const twists = [
+      { type: 'REACH OUTLIER', title: `10 Most Useless ${kw} People Still Fall For (2026 Data)`, thumb: 'AVOID THESE!' },
+      { type: 'REACH OUTLIER', title: `7 Boring But High-Paying ${kw} Nobody Is Talking About`, thumb: 'BORING = $200K+' },
+      { type: 'REACH OUTLIER', title: `5 Best and 5 Worst ${kw} Ranked (Brutally Honest)`, thumb: 'PICK & AVOID' },
+      { type: 'REACH OUTLIER', title: `6 Silent ${kw} Mistakes That Ruin Beginners`, thumb: 'IT HAPPENS FAST' },
+      { type: 'LEVEL-5 BUYER', title: `How We Built a Done-For-You ${kw} System (Full Walkthrough)`, thumb: 'STEAL MY SYSTEM' },
+      { type: 'LEVEL-5 BUYER', title: `What Every CEO Must Know Before Investing in ${kw}`, thumb: 'SAVED $50,000' },
+      { type: 'LEVEL-5 BUYER', title: `The 3-Hour/Week ${kw} Workflow for Busy Founders`, thumb: '40 HRS -> 3 HRS' },
+      { type: 'LEVEL-5 BUYER', title: `How One Client Closed $100K Using This ${kw} Blueprint`, thumb: '$0 TO $100K' }
+    ];
+
+    document.getElementById('icahn-output').innerHTML = `
+      <h3>Step 2: 1-Click YouTube Search Wildcard Matrix</h3>
+      <div style="margin:8px 0 16px;">${linksHtml}</div>
+      <h3>Step 3: Synchronized "Slight Twist" Titles + Thumbnail Text</h3>
+      <table>
+        <thead><tr><th>Bucket</th><th>Twisted Title (Never Compete Verbatim)</th><th>2–4 Word Thumb Text</th></tr></thead>
+        <tbody>
+          ${twists.map(t => `<tr><td><span class="pill ${t.type.includes('BUYER') ? 'pill-green' : 'pill-yellow'}">${t.type}</span></td><td><strong>${t.title}</strong></td><td><code>${t.thumb}</code></td></tr>`).join('')}
+        </tbody>
+      </table>
+    `;
+  }
+
+  function lintTrifecta() {
+    const title = document.getElementById('tri-title').value.trim();
+    const thumb = document.getElementById('tri-thumb').value.trim();
+    const p1 = document.getElementById('tri-p1').value.trim();
+    const p2 = document.getElementById('tri-p2').value.trim();
+    const p3 = document.getElementById('tri-p3').value.trim();
+    const p4 = document.getElementById('tri-p4').value.trim();
+
+    const fullIntro = `${p1} ${p2} ${p3} ${p4}`.trim();
+    const words = fullIntro.match(/\b\w+\b/g) || [];
+    const sentences = fullIntro.split(/[.!?]+/).filter(s => s.trim().length > 0);
+    const avgWords = (words.length / Math.max(sentences.length, 1)).toFixed(1);
+    const seconds = ((words.length / 160) * 60).toFixed(1);
+
+    const stop = new Set(['the','a','an','to','in','on','of','for','and','or','with','by','at','from','is','are','that']);
+    const titleWords = new Set((title.toLowerCase().match(/[a-z0-9]+/g) || []).filter(w => !stop.has(w) && w.length > 2));
+    const thumbWords = (thumb.toLowerCase().match(/[a-z0-9]+/g) || []).filter(w => !stop.has(w) && w.length > 2);
+    const overlap = thumbWords.filter(w => titleWords.has(w));
+    const thumbWordCount = (thumb.match(/\S+/g) || []).length;
+
+    const banned = ['delve','tapestry','testament','moreover','furthermore','in conclusion','fast-paced world','unleash','hey guys','welcome back','smash that like'];
+    const foundBanned = banned.filter(b => fullIntro.toLowerCase().includes(b));
+
+    const timeOk = seconds >= 20 && seconds <= 31;
+    const cadenceOk = avgWords <= 16 && foundBanned.length === 0;
+    const synergyOk = overlap.length === 0 && thumbWordCount >= 1 && thumbWordCount <= 4;
+
+    document.getElementById('tri-output').innerHTML = `
+      <div class="grid-3" style="gap:10px;margin-bottom:14px;">
+        <div class="stat-box">
+          <span class="pill ${timeOk ? 'pill-green' : 'pill-red'}">0–30s Pacing Timer</span>
+          <div class="big">${seconds}s</div>
+          <p style="font-size:12px;color:var(--muted);">${words.length} words @ 160 WPM (Target: 22–30s)</p>
+        </div>
+        <div class="stat-box">
+          <span class="pill ${cadenceOk ? 'pill-green' : 'pill-red'}">Spoken Cadence</span>
+          <div class="big">${avgWords} w/s</div>
+          <p style="font-size:12px;color:var(--muted);">Target: &le;16 words/sentence</p>
+        </div>
+        <div class="stat-box">
+          <span class="pill ${synergyOk ? 'pill-green' : 'pill-red'}">Thumb Synergy</span>
+          <div class="big">${thumbWordCount} words</div>
+          <p style="font-size:12px;color:var(--muted);">${overlap.length === 0 ? '✓ Zero title overlap' : '⚠ Repeats: ' + overlap.join(', ')}</p>
+        </div>
+      </div>
+      <p style="font-size:13px;"><strong>Anti-AI-Slop Scanner:</strong> ${foundBanned.length === 0 ? '<span style="color:var(--green);">✓ Clean (Zero banned AI/outro phrases detected)</span>' : '<span style="color:var(--red);">⚠ Flagged phrases: ' + foundBanned.join(', ') + '</span>'}</p>
+      <pre>${fullIntro}</pre>
+    `;
+  }
+
+  function filterCases() {
+    const q = document.getElementById('case-filter').value.toLowerCase();
+    const rows = document.querySelectorAll('#cases-table tbody tr');
+    rows.forEach(r => {
+      r.style.display = r.innerText.toLowerCase().includes(q) ? '' : 'none';
+    });
+  }
+
+  // Initialize interactive views on load
+  runNicheCalculator();
+  runIcahnGenerator();
+  lintTrifecta();
+</script>
+
+</body>
+</html>

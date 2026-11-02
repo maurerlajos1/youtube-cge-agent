@@ -1,0 +1,5495 @@
+{
+  "google_ads_en_us": {
+    "meta": {
+      "seed": "google ads",
+      "language": "en",
+      "country": "us",
+      "total_unique_keywords": 1014,
+      "bofu_count": 190,
+      "mofu_count": 122,
+      "tofu_count": 89
+    },
+    "top_25_overall": [
+      {
+        "keyword": "google ads for beginners",
+        "demand_score": 94.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 4,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial 2025",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads course",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads optimization score",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads vs meta ads",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads vs facebook ads",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial 2026",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads for beginners 2025",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads optimization checklist",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit checklist",
+        "demand_score": 82.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads not working",
+        "demand_score": 80.5,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads agency",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads manager",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads editor",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads optimization",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial for beginners",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how much does google ads cost",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads cost per click",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads keyword planner",
+        "demand_score": 77.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial",
+        "demand_score": 77.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads dropshipping",
+        "demand_score": 76.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads cost",
+        "demand_score": 76.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads quality score",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads youtube",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads pricing",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_bofu_commercial": [
+      {
+        "keyword": "google ads optimization checklist",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit checklist",
+        "demand_score": 82.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads agency",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "how much does google ads cost",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads cost per click",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads cost",
+        "demand_score": 76.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads pricing",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads b2b lead generation",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads case study 2025",
+        "demand_score": 68.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads for ecommerce website",
+        "demand_score": 68.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads for ecommerce course",
+        "demand_score": 68.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads for ecommerce stores",
+        "demand_score": 67.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads b2b saas",
+        "demand_score": 66.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit and optimization",
+        "demand_score": 65.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads agency account",
+        "demand_score": 64.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_mofu_tactical": [
+      {
+        "keyword": "google ads for beginners",
+        "demand_score": 94.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 4,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial 2025",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads course",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads optimization score",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial 2026",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads for beginners 2025",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads optimization",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial for beginners",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial",
+        "demand_score": 77.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads strategy 2026",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads mistakes to avoid",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads for beginners coursera",
+        "demand_score": 65.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads for beginners course",
+        "demand_score": 64.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads course 2026",
+        "demand_score": 64.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial 2024",
+        "demand_score": 60.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 6,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_tofu_informational": [
+      {
+        "keyword": "what is google adsense",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "best way to run google ads",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "best way to learn google ads",
+        "demand_score": 72.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how much does google adsense pay",
+        "demand_score": 70.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "google ads how to",
+        "demand_score": 68.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to google adsense",
+        "demand_score": 64.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "best way to optimize google ads",
+        "demand_score": 60.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to google ads campaign",
+        "demand_score": 59.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is google ads and how does it work",
+        "demand_score": 54.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is google ads account",
+        "demand_score": 50.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 5,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to google ads account linking",
+        "demand_score": 48.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 6,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to google ads account create",
+        "demand_score": 46.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 8,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is google ads conversion tracking",
+        "demand_score": 45.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 7,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "google ads how to use",
+        "demand_score": 40.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 9,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to google adsense account",
+        "demand_score": 40.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 9,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  },
+  "landing_page_optimization_en_us": {
+    "meta": {
+      "seed": "landing page optimization",
+      "language": "en",
+      "country": "us",
+      "total_unique_keywords": 104,
+      "bofu_count": 11,
+      "mofu_count": 61,
+      "tofu_count": 10
+    },
+    "top_25_overall": [
+      {
+        "keyword": "landing page optimization for google ads",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 5,
+        "web_appearances": 3,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization course",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 3,
+        "web_appearances": 5,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "what is landing page optimization",
+        "demand_score": 89.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 3,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page conversion optimization",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page seo optimization",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization examples",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 29,
+        "yt_appearances": 0,
+        "web_appearances": 29,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization services",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 16,
+        "yt_appearances": 0,
+        "web_appearances": 16,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization software",
+        "demand_score": 73.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 23,
+        "yt_appearances": 0,
+        "web_appearances": 23,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization best practices",
+        "demand_score": 72.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 7,
+        "yt_appearances": 0,
+        "web_appearances": 7,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization cost",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 11,
+        "yt_appearances": 0,
+        "web_appearances": 11,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page optimization ideas",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 8,
+        "yt_appearances": 0,
+        "web_appearances": 8,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimizations",
+        "demand_score": 70.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 5,
+        "total_appearances": 14,
+        "yt_appearances": 0,
+        "web_appearances": 14,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how to do landing page optimization",
+        "demand_score": 69.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 0,
+        "web_appearances": 6,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization for dummies",
+        "demand_score": 64.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tim ash pdf español gratis",
+        "demand_score": 62.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page design & conversion rate optimization udemy",
+        "demand_score": 59.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization seo",
+        "demand_score": 59.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tim ash pdf",
+        "demand_score": 56.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization guide",
+        "demand_score": 54.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tim ash pdf español",
+        "demand_score": 53.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tim ash",
+        "demand_score": 53.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization the definitive guide to testing and tuning for conversions",
+        "demand_score": 53.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how to optimize landing page",
+        "demand_score": 52.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "landing page optimization ai",
+        "demand_score": 51.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tools",
+        "demand_score": 49.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_bofu_commercial": [
+      {
+        "keyword": "landing page optimization cost",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 11,
+        "yt_appearances": 0,
+        "web_appearances": 11,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page seo checklist",
+        "demand_score": 41.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page optimization agency",
+        "demand_score": 35.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page optimization checklist",
+        "demand_score": 34.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page for marketing agency",
+        "demand_score": 29.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 1,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page marketing agency",
+        "demand_score": 29.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page digital marketing agency",
+        "demand_score": 26.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "how much does landing page cost",
+        "demand_score": 21.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "how much does landing page design cost",
+        "demand_score": 19.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 5,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "how much does a landing page website cost",
+        "demand_score": 16.5,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 6,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "how much does a landing page cost to make",
+        "demand_score": 14.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 7,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_mofu_tactical": [
+      {
+        "keyword": "landing page optimization for google ads",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 5,
+        "web_appearances": 3,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization course",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 3,
+        "web_appearances": 5,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "what is landing page optimization",
+        "demand_score": 89.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 3,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page conversion optimization",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page seo optimization",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization examples",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 29,
+        "yt_appearances": 0,
+        "web_appearances": 29,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization services",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 16,
+        "yt_appearances": 0,
+        "web_appearances": 16,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization software",
+        "demand_score": 73.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 23,
+        "yt_appearances": 0,
+        "web_appearances": 23,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization best practices",
+        "demand_score": 72.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 7,
+        "yt_appearances": 0,
+        "web_appearances": 7,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization ideas",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 8,
+        "yt_appearances": 0,
+        "web_appearances": 8,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimizations",
+        "demand_score": 70.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 5,
+        "total_appearances": 14,
+        "yt_appearances": 0,
+        "web_appearances": 14,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how to do landing page optimization",
+        "demand_score": 69.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 0,
+        "web_appearances": 6,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization for dummies",
+        "demand_score": 64.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page optimization tim ash pdf español gratis",
+        "demand_score": 62.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing page design & conversion rate optimization udemy",
+        "demand_score": 59.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_tofu_informational": [
+      {
+        "keyword": "how to optimize landing page",
+        "demand_score": 52.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page optimisation",
+        "demand_score": 29.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page optimisation in digital marketing",
+        "demand_score": 26.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page in seo",
+        "demand_score": 24.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to optimize landing page seo",
+        "demand_score": 21.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to optimize landing page for seo",
+        "demand_score": 21.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page software",
+        "demand_score": 19.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 5,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page analysis",
+        "demand_score": 16.5,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 6,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is landing page rate",
+        "demand_score": 14.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 7,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is needed to optimize a landing page",
+        "demand_score": 11.5,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 8,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  },
+  "conversion_rate_optimization_en_us": {
+    "meta": {
+      "seed": "conversion rate optimization",
+      "language": "en",
+      "country": "us",
+      "total_unique_keywords": 299,
+      "bofu_count": 28,
+      "mofu_count": 252,
+      "tofu_count": 7
+    },
+    "top_25_overall": [
+      {
+        "keyword": "what is conversion rate optimization",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 21,
+        "yt_appearances": 3,
+        "web_appearances": 18,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how to do conversion rate optimization",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 6,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization shopify",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 2,
+        "web_appearances": 6,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization in digital marketing",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 7,
+        "yt_appearances": 4,
+        "web_appearances": 3,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization tutorial",
+        "demand_score": 94.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 4,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization landing page",
+        "demand_score": 89.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 3,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization basics",
+        "demand_score": 88.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 5,
+        "yt_appearances": 1,
+        "web_appearances": 4,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization ecommerce",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization website",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization course",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization techniques",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization explained",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization strategies",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization (cro)",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization examples",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 17,
+        "yt_appearances": 0,
+        "web_appearances": 17,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization reddit",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 14,
+        "yt_appearances": 0,
+        "web_appearances": 14,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization calculator",
+        "demand_score": 74.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 11,
+        "yt_appearances": 0,
+        "web_appearances": 11,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization salary",
+        "demand_score": 73.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 18,
+        "yt_appearances": 0,
+        "web_appearances": 18,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization studies",
+        "demand_score": 72.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 14,
+        "yt_appearances": 0,
+        "web_appearances": 14,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization cost",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 9,
+        "yt_appearances": 0,
+        "web_appearances": 9,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization full course",
+        "demand_score": 70.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization for luxury ecommerce",
+        "demand_score": 64.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "what is conversion rate optimisation",
+        "demand_score": 62.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "conversion rate optimization in digital marketing malayalam",
+        "demand_score": 59.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 4,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_bofu_commercial": [
+      {
+        "keyword": "conversion rate optimization cost",
+        "demand_score": 71.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 4,
+        "total_appearances": 9,
+        "yt_appearances": 0,
+        "web_appearances": 9,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization services pricing",
+        "demand_score": 58.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization b2b",
+        "demand_score": 54.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 3,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization agency",
+        "demand_score": 54.0,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 3,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization for ecommerce",
+        "demand_score": 47.5,
+        "est_monthly_searches": "800 - 3,500",
+        "est_monthly_searches_mid": 2150,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "best conversion rate optimization agency",
+        "demand_score": 37.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "b2b conversion rate optimization",
+        "demand_score": 37.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization audit",
+        "demand_score": 34.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimization agency in india",
+        "demand_score": 29.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 6,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimisation agency kerala",
+        "demand_score": 29.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "developing a conversion rate optimization framework for digital retailers case study",
+        "demand_score": 29.0,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "b2b conversion rate",
+        "demand_score": 26.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "typical conversion rate for ecommerce",
+        "demand_score": 26.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion rate optimisation agency uk",
+        "demand_score": 25.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 5,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "conversion optimization audit",
+        "demand_score": 21.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_mofu_tactical": [
+      {
+        "keyword": "what is conversion rate optimization",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 21,
+        "yt_appearances": 3,
+        "web_appearances": 18,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "how to do conversion rate optimization",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 6,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization shopify",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 2,
+        "web_appearances": 6,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization in digital marketing",
+        "demand_score": 99.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 7,
+        "yt_appearances": 4,
+        "web_appearances": 3,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization tutorial",
+        "demand_score": 94.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 4,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization landing page",
+        "demand_score": 89.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 5,
+        "yt_appearances": 3,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization basics",
+        "demand_score": 88.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 5,
+        "yt_appearances": 1,
+        "web_appearances": 4,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization ecommerce",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization website",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization course",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization techniques",
+        "demand_score": 84.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization explained",
+        "demand_score": 83.0,
+        "est_monthly_searches": "8,000 - 45,000",
+        "est_monthly_searches_mid": 26500,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 2,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization strategies",
+        "demand_score": 79.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "conversion rate optimization (cro)",
+        "demand_score": 78.0,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_tofu_informational": [
+      {
+        "keyword": "what is conversion rate optimisation",
+        "demand_score": 62.5,
+        "est_monthly_searches": "2,500 - 12,000",
+        "est_monthly_searches_mid": 7250,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "why does conversion rate decrease",
+        "demand_score": 21.5,
+        "est_monthly_searches": "250 - 1,000",
+        "est_monthly_searches_mid": 625,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "why does conversion rate matter",
+        "demand_score": 19.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 5,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "how to calculate conversion rate example",
+        "demand_score": 16.5,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 6,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "why does conversion rate decrease as traffic increases",
+        "demand_score": 14.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 7,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "what is conversion rate optimisation cro",
+        "demand_score": 11.5,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 8,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "best way to calculate conversion rate",
+        "demand_score": 9.0,
+        "est_monthly_searches": "50 - 300",
+        "est_monthly_searches_mid": 175,
+        "volume_confidence": "Medium",
+        "best_search_rank": 9,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  },
+  "google_ads_hu_hu": {
+    "meta": {
+      "seed": "google ads",
+      "language": "hu",
+      "country": "hu",
+      "total_unique_keywords": 737,
+      "bofu_count": 32,
+      "mofu_count": 20,
+      "tofu_count": 7
+    },
+    "top_25_overall": [
+      {
+        "keyword": "google ads kampány létrehozása",
+        "demand_score": 84.0,
+        "est_monthly_searches": "1,000 - 4,500",
+        "est_monthly_searches_mid": 2750,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads használata",
+        "demand_score": 79.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads new campaign",
+        "demand_score": 78.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads editor",
+        "demand_score": 76.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tutorial",
+        "demand_score": 75.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads ai",
+        "demand_score": 72.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads youtube",
+        "demand_score": 72.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads remarketing",
+        "demand_score": 71.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 2,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tips",
+        "demand_score": 71.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 1,
+        "web_appearances": 2,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads job",
+        "demand_score": 71.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads offline conversion tracking",
+        "demand_score": 70.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads youtube campaign",
+        "demand_score": 69.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads é pago",
+        "demand_score": 69.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads course",
+        "demand_score": 68.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads quality score",
+        "demand_score": 68.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads pmax",
+        "demand_score": 68.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads é bom",
+        "demand_score": 68.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads zoho crm",
+        "demand_score": 68.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads audit checklist",
+        "demand_score": 68.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads api",
+        "demand_score": 67.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads woocommerce",
+        "demand_score": 67.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads expert mode",
+        "demand_score": 66.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads negative keywords",
+        "demand_score": 66.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads zapier",
+        "demand_score": 65.5,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads conversion tracking",
+        "demand_score": 65.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_bofu_commercial": [
+      {
+        "keyword": "google ads audit checklist",
+        "demand_score": 68.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads hirdetéskezelés árak",
+        "demand_score": 59.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit template",
+        "demand_score": 59.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit report",
+        "demand_score": 58.5,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit and optimization",
+        "demand_score": 57.5,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 1,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads kampánykezelés árak",
+        "demand_score": 52.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads hirdetéskezelés",
+        "demand_score": 51.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads hirdetés árak",
+        "demand_score": 43.5,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads árak",
+        "demand_score": 43.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google adwords árak",
+        "demand_score": 38.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads audit",
+        "demand_score": 37.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 2,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads ügynökség",
+        "demand_score": 33.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "ppc média google ads ügynökség",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads szakértői mód",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "google ads voor webshops",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_mofu_tactical": [
+      {
+        "keyword": "google ads kampány létrehozása",
+        "demand_score": 84.0,
+        "est_monthly_searches": "1,000 - 4,500",
+        "est_monthly_searches_mid": 2750,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 4,
+        "yt_appearances": 3,
+        "web_appearances": 1,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads beállítás",
+        "demand_score": 54.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 3,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tanfolyam kezdőknek",
+        "demand_score": 49.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads kezdőknek",
+        "demand_score": 47.5,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 2,
+        "web_appearances": 0,
+        "platforms": [
+          "yt"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads beállítása",
+        "demand_score": 43.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tanfolyam",
+        "demand_score": 35.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads ingyenes tanfolyam",
+        "demand_score": 34.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads kampánykezelés",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads konverzió beállítása",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads képzés kezdőknek",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads tanfolyamok",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads online tanfolyam",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads kampány típusok",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads nyelv beállítása",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "google ads kampány törlése",
+        "demand_score": 21.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_tofu_informational": [
+      {
+        "keyword": "google ads hogyan működik",
+        "demand_score": 45.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mi az a google adwords",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mennyibe kerül a google ads",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mi az a google ads fiók",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mennyibe kerül a google",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mi az a google adsense",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mennyibe kerül a google hirdetés",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  },
+  "landing_oldal_hu_hu": {
+    "meta": {
+      "seed": "landing oldal",
+      "language": "hu",
+      "country": "hu",
+      "total_unique_keywords": 35,
+      "bofu_count": 3,
+      "mofu_count": 0,
+      "tofu_count": 4
+    },
+    "top_25_overall": [
+      {
+        "keyword": "landing oldal",
+        "demand_score": 99.0,
+        "est_monthly_searches": "1,000 - 4,500",
+        "est_monthly_searches_mid": 2750,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 41,
+        "yt_appearances": 1,
+        "web_appearances": 40,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítés",
+        "demand_score": 99.0,
+        "est_monthly_searches": "1,000 - 4,500",
+        "est_monthly_searches_mid": 2750,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 8,
+        "yt_appearances": 2,
+        "web_appearances": 6,
+        "platforms": [
+          "yt",
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal jelentése",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 43,
+        "yt_appearances": 0,
+        "web_appearances": 43,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítése",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 32,
+        "yt_appearances": 0,
+        "web_appearances": 32,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítő",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 11,
+        "yt_appearances": 0,
+        "web_appearances": 11,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal felépítése",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 9,
+        "yt_appearances": 0,
+        "web_appearances": 9,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal ár",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 9,
+        "yt_appearances": 0,
+        "web_appearances": 9,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldalak",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 9,
+        "yt_appearances": 0,
+        "web_appearances": 9,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal létrehozása",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 7,
+        "yt_appearances": 0,
+        "web_appearances": 7,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal mit jelent",
+        "demand_score": 73.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 24,
+        "yt_appearances": 0,
+        "web_appearances": 24,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal példa",
+        "demand_score": 69.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 6,
+        "yt_appearances": 0,
+        "web_appearances": 6,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítés ár",
+        "demand_score": 63.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 5,
+        "yt_appearances": 0,
+        "web_appearances": 5,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal minta",
+        "demand_score": 54.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal ára",
+        "demand_score": 54.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítés árak",
+        "demand_score": 54.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing oldal készítés ingyen",
+        "demand_score": 53.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal készítés wordpress",
+        "demand_score": 49.5,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal árak",
+        "demand_score": 43.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing oldal wordpress",
+        "demand_score": 42.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal keszites",
+        "demand_score": 38.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal sablon",
+        "demand_score": 37.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal ingyen",
+        "demand_score": 35.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "unas landing oldal",
+        "demand_score": 35.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "shoprenter landing oldal",
+        "demand_score": 33.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "landing oldal mi az",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_bofu_commercial": [
+      {
+        "keyword": "landing oldal készítés árak",
+        "demand_score": 54.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing oldal árak",
+        "demand_score": 43.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      },
+      {
+        "keyword": "landing page audit checklist",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BOFU_COMMERCIAL",
+        "intent_label": "High-Ticket Client / Agency Buyer Intent",
+        "monetization_tier": "TIER_1_HIGH_TICKET_B2B"
+      }
+    ],
+    "top_mofu_tactical": [],
+    "top_tofu_informational": [
+      {
+        "keyword": "mennyibe kerül egy landing oldal",
+        "demand_score": 29.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 1,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mi az a landing page",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mennyibe kerül egy landing page",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "mi az a landing",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  },
+  "konverzió_optimalizálás_hu_hu": {
+    "meta": {
+      "seed": "konverzió optimalizálás",
+      "language": "hu",
+      "country": "hu",
+      "total_unique_keywords": 19,
+      "bofu_count": 0,
+      "mofu_count": 1,
+      "tofu_count": 1
+    },
+    "top_25_overall": [
+      {
+        "keyword": "konverzió optimalizálás",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 39,
+        "yt_appearances": 0,
+        "web_appearances": 39,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konvex optimalizálás",
+        "demand_score": 74.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 1,
+        "total_appearances": 14,
+        "yt_appearances": 0,
+        "web_appearances": 14,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "mennyi konverziótól érdemes konverzióra optimalizálni",
+        "demand_score": 73.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 30,
+        "yt_appearances": 0,
+        "web_appearances": 30,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziók maximalizálása",
+        "demand_score": 73.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 26,
+        "yt_appearances": 0,
+        "web_appearances": 26,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "mi a konverzió optimalizálás és miért fontos",
+        "demand_score": 73.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 23,
+        "yt_appearances": 0,
+        "web_appearances": 23,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      },
+      {
+        "keyword": "konverziós szolgáltatások",
+        "demand_score": 58.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 4,
+        "yt_appearances": 0,
+        "web_appearances": 4,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziónövelés",
+        "demand_score": 52.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "optimalizálás alkalmazásai",
+        "demand_score": 52.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverzios koltseg",
+        "demand_score": 52.0,
+        "est_monthly_searches": "120 - 500",
+        "est_monthly_searches_mid": 310,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 3,
+        "total_appearances": 3,
+        "yt_appearances": 0,
+        "web_appearances": 3,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós hatékonyság",
+        "demand_score": 39.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverzió növelése",
+        "demand_score": 37.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 2,
+        "yt_appearances": 0,
+        "web_appearances": 2,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós hirdetés",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós hiba",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós kampány",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós ügylet",
+        "demand_score": 24.0,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 3,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós költségek",
+        "demand_score": 21.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós adó",
+        "demand_score": 21.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós esemény",
+        "demand_score": 21.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      },
+      {
+        "keyword": "konverziós tábla",
+        "demand_score": 21.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 4,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "BROAD_DISCOVERY",
+        "intent_label": "Broad Discovery Keyword",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_bofu_commercial": [],
+    "top_mofu_tactical": [
+      {
+        "keyword": "konverziós kampány",
+        "demand_score": 26.5,
+        "est_monthly_searches": "40 - 180",
+        "est_monthly_searches_mid": 110,
+        "volume_confidence": "Medium",
+        "best_search_rank": 2,
+        "total_appearances": 1,
+        "yt_appearances": 0,
+        "web_appearances": 1,
+        "platforms": [
+          "web"
+        ],
+        "intent": "MOFU_TACTICAL",
+        "intent_label": "Tactical Learner / Software / Template Seeker",
+        "monetization_tier": "TIER_2_COURSE_AFFILIATE_LEAD"
+      }
+    ],
+    "top_tofu_informational": [
+      {
+        "keyword": "mi a konverzió optimalizálás és miért fontos",
+        "demand_score": 73.0,
+        "est_monthly_searches": "350 - 1,500",
+        "est_monthly_searches_mid": 925,
+        "volume_confidence": "High (Live Suggest Multi-Stem Verification)",
+        "best_search_rank": 2,
+        "total_appearances": 23,
+        "yt_appearances": 0,
+        "web_appearances": 23,
+        "platforms": [
+          "web"
+        ],
+        "intent": "TOFU_INFORMATIONAL",
+        "intent_label": "Problem Awareness / Educational",
+        "monetization_tier": "TIER_3_MASS_VIEW_OPTIN"
+      }
+    ]
+  }
+}

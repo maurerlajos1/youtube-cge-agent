@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Media Files (>100MB blocked by GitHub)
+*.mp4
+*.wav
+*.mp3
+*.m4a
+*.mov
+*.avi
+*.mkv
+audio_16k.wav
+_GMT20261025-224816_Recording_1920x1080.mp4
+
+# Unrelated personal / local documents
+*.docx
+*.doc
+*.zip
+*.rar
+*.7z
+Elszamolo_lap*
+KERELEM*
+Utazasi_tamogatas*
+hangf*
+801963817*
+
+# Browser profiles and session data (contains local cookies / credentials)
+avast_automation_profile/
+avast_user_profile_clone/
+*profile*/
+DevToolsActivePort
+
+# Automation screenshots & logs
+*.log
+*.tmp
+cge_engine/*_screen.png
+cge_engine/latest_gkp_action.png
+final_run_screen.png
+current_gkp_screen.png
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
